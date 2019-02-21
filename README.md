@@ -36,9 +36,29 @@ I have attempted to keep the image size down by:
     * Auto importing talk groups from the csv file that is used with trunk-recorder
       * Will hopefully be added
       * trunk-player and trunk-recorder don't use the same columns..... :(
+      * Seems to be a length limit on the csv also
 
 ## How-to use
+
+* /app/config has example of config.json and talk_groups.csv for my system. the talk_groups.csv is just a copy paste from https://www.radioreference.com/apps/db/
+  * the csv has 2 extra columns, Priority and Streams List
+  * If you add layer as a location for stream list, it will send it to trunk-player
+  * All other names go to a liquidsoap stream
+
+* The docker-compose.yml includes a postgres database that can be used, or comment out and use your own.
+
 * Copy docker-compose.template.yml to docker-compose.yml
+
+* Global variables:
+  * POSTGRES_USER: - Username for postgres database
+  * POSTGRES_PASSWORD: - Password for postgres database
+  * POSTGRES_DB: - DB name for postgres database
+  * POSTGRES_HOST: - Hostname for the db (Use postgres if using the link from the db service in docker-compose)
+  * POSTGRES_PORT: - Port number to use to connect to the postgres host.
+
+* postgres:
+  * volumes:
+    * postgres_data - where the database files are saved
 
 * trunk-recorder:
   * volumes:
