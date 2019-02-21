@@ -5,11 +5,13 @@ LOCAL_SETTINGS = True
 
 TIME_ZONE = '${TZ}'
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ${ALLOWED_HOSTS}
 
 BASE_DIR = '/home/radio/trunk-player'
+
+ALLOW_GOOGLE_SIGNIN = False
 
 # Make this unique, and don't share it with anybody.
 # You can use http://www.miniwebtool.com/django-secret-key-generator/
