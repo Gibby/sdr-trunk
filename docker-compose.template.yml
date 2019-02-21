@@ -1,0 +1,38 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    volumes:
+      - postgres_data:/var/lib/postgresql/data/
+    environment:
+      POSTGRES_PASSWORD: changeme
+      POSTGRES_USER: trunk_player_user
+      POSTGRES_DB: trunk_player
+  sdr:
+    privileged: true
+    image: gibby/trunk-recorder-player
+    links:
+      - "db:postgres"
+    volumes:
+      - config:/app/config
+      - media:/app/media
+      - liquidsoap:/app/liquidsoap
+      - /dev/bus/usb:/dev/bus/usb
+    environment:
+      START_TRUNK_PLAYER: true
+      SECRET_KEY: Get key from https://www.miniwebtool.com/django-secret-key-generator/
+      SITE_TITLE: Trunk-Player
+      SITE_EMAIL: help@example.com
+      DEFAULT_FROM_EMAIL: Trunk-Player WebSite <scanner-web-help@example.com>
+      AUDIO_URL_BASE: /app/media
+      DB_HOST: postgres
+      DB_NAME: trunk_player
+      DB_USER: trunk_player_user
+      DB_PASSWORD: changeme
+      TZ: America/New_York
+    depends_on:
+      - db
+    ports:
+      - 8000:8000

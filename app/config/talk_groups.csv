@@ -1,0 +1,1099 @@
+Decimal,Subfleet,Alpha Tag,Mode,Description,Tag,Category,Priority,Stream List
+5,,SC Air 1,D,SC Air 1,Emergency Ops,SC Interoperability,99,all
+10,,SC Reg Govt 5,D,Regional Govt 5,Interop,SC Interoperability,99,all
+11,,SC Reg Govt 6,D,Regional Govt 6,Interop,SC Interoperability,99,all
+12,,SC LE Comm 5,D,LE Common 5,Law Tac,SC Interoperability,99,all
+13,,SC LE Comm 6,D,LE Common 6,Law Tac,SC Interoperability,99,all
+500,,LISH FD Admn,D,Ladys Island St Helena FD Admin,Fire-Tac,Beaufort County,99,all
+502,,LISH FD Ops1,D,Ladys Island St Helena FD Ops 1,Fire-Tac,Beaufort County,99,all
+504,,LISH FD Ops2,D,Ladys Island St Helena FD Ops 2,Fire-Tac,Beaufort County,99,all
+508,,Fripp Is FD,D,Fripp Island FD Admin,Fire-Tac,Beaufort County,99,all
+509,,Fripp Is FD,D,Fripp Island FD Ops 1,Fire Dispatch,Beaufort County,99,all
+516,,BFD Admin,DE,Beaufort FD Admin,Fire-Tac,Beaufort County,99,all
+518,,BFD Ops 1,DE,Beaufort FD Ops 1,Fire-Tac,Beaufort County,99,all
+520,,BFD Ops 2,D,Beaufort FD Ops 2,Fire-Tac,Beaufort County,99,all
+526,,Brtn FD Ops1,DE,Burton FD Ops 1,Fire-Tac,Beaufort County,99,all
+532,,Shldn FD Adm,D,Sheldon FD Admin,Fire-Tac,Beaufort County,99,all
+534,,Shldn FD Op1,D,Sheldon FD Ops 1,Fire-Tac,Beaufort County,99,all
+542,,Blftn FD Adm,D,Bluffton FD Admin,Fire-Tac,Beaufort County,99,all
+544,,Blftn FD Op1,D,Bluffton FD Ops 1,Fire-Tac,Beaufort County,99,all
+545,,Blftn FD Op4,D,Bluffton FD Ops 4,Fire-Tac,Beaufort County,99,all
+546,,Blftn FD Op2,D,Bluffton FD Ops 2,Fire-Tac,Beaufort County,99,all
+550,,HHI FR Disp,D,Hilton Head Island FireRescue Dispatch,Fire Dispatch,Beaufort County,99,all
+552,,HHI FR Tac1,D,Hilton Head Island FireRescue Tac 1,Fire-Tac,Beaufort County,99,all
+553,,HHI FR Tac2,D,Hilton Head Island FireRescue Tac 2,Fire-Tac,Beaufort County,99,all
+554,,HHI FR Tac3,D,Hilton Head Island FireRescue Tac 3,Fire-Tac,Beaufort County,99,all
+556,,HHI Bch Ptrl,D,Hilton Head Island Beach Patrol,EMS-Tac,Beaufort County,99,all
+560,,HHI FR DI 1,D,Hilton Head Island FireRescue Daufuski Island Ops 1,Fire-Tac,Beaufort County,99,all
+562,,HHI FR DI 2,D,Hilton Head Island FireRescue Daufuski Island Ops 2,Fire-Tac,Beaufort County,99,all
+575,,PI FDEMS,D,Parris Island FDEMS DispatchOps,Fire Dispatch,Beaufort County,99,all
+577,,PI FD Ops,D,Parris Island FD Ops,Fire-Tac,Beaufort County,99,all
+578,,PI FD Ops,D,Parris Island FD Ops,Fire-Tac,Beaufort County,99,all
+582,,BC EMS Disp,DE,EMS Dispatch,EMS Dispatch,Beaufort County,99,all
+584,,BC EMS Coord,D,EMS Coordination,EMS-Tac,Beaufort County,99,all
+585,,BC EMS BMH,D,EMS to Beaufort Memorial Hospital,Hospital,Beaufort County,99,all
+586,,BC EMS BNH,D,EMS to Beaufort Naval Hospital,Hospital,Beaufort County,99,all
+587,,BC EMS HHI,D,EMS to Hilton Head Island Hospital,Hospital,Beaufort County,99,all
+588,,BC EMS Cstl,D,EMS to Coastal Carolina Hospital,Hospital,Beaufort County,99,all
+598,,BCSO N Disp,DE,Sheriff North Dispatch,Law Dispatch,Beaufort County,99,all
+599,,BCSO N Ops,DE,Sheriff North Ops,Law Tac,Beaufort County,99,all
+600,,BCSO Warrant,DE,Sheriff Warrants,Law Tac,Beaufort County,99,all
+602,,BCSO N Shift,DE,Sheriff North Shift,Law Tac,Beaufort County,99,all
+604,,BCSO S Disp,DE,Sheriff South Dispatch,Law Dispatch,Beaufort County,99,all
+605,,BCSO S Ops,DE,Sheriff South Ops,Law Tac,Beaufort County,99,all
+606,,BCSO S Shift,DE,Sheriff South Shift,Law Tac,Beaufort County,99,all
+607,,BC Det Cntr,D,Detention Center,Law Tac,Beaufort County,99,all
+608,,BCSO Civil,DE,Sheriff Civil Process Section,Law Tac,Beaufort County,99,all
+610,,BCSO Narcs,DE,Sheriff SO Narcotics,Law Tac,Beaufort County,99,all
+614,,BPD Dispatch,DE,Beaufort PD Dispatch,Law Dispatch,Beaufort County,99,all
+615,,BPD Ops,DE,Beaufort PD Ops,Law Tac,Beaufort County,99,all
+616,,BPD Shift,DE,Beaufort PD Shift,Law Tac,Beaufort County,99,all
+626,,PR PD Ops,DE,Port Royal PD Ops,Law Dispatch,Beaufort County,99,all
+628,,PR PD Shift,DE,Port Royal PD Shift,Law Tac,Beaufort County,99,all
+638,,Blftn PD Dsp,DE,Bluffton PD Dispatch,Law Dispatch,Beaufort County,99,all
+639,,Blftn PD Ops,DE,Bluffton PD Ops,Law Tac,Beaufort County,99,all
+640,,Blftn PD Shf,DE,Bluffton PD Shift,Law Tac,Beaufort County,99,all
+650,,USCB Sec,D,USC Beaufort Security,Schools,Beaufort County,99,all
+658,,Yemm PD Shft,DE,Yemmassee PD Shift,Law Tac,Beaufort County,99,all
+668,,SHEP Patrol,D,SC DOT Incident Response,Public Works,Beaufort County,99,all
+669,,BC AirGnd,D,AirGround,Multi-Tac,Beaufort County,99,all
+673,,BC Maj Inc 1,D,Major Incident 1,Interop,Beaufort County,99,all
+676,,BC Maj Inc 3,D,Major Incident 3,Interop,Beaufort County,99,all
+680,,BC Maj Inc 5,D,Major Incident 5,Interop,Beaufort County,99,all
+696,,BC Marine,D,Marine Rescue,Fire-Tac,Beaufort County,99,all
+698,,HHI Bch Mstr,D,Hilton Head Island Beach MasterEvents,Public Works,Beaufort County,99,all
+704,,BC FD Disp 1,D,FD Dispatch 1,Fire Dispatch,Beaufort County,99,all
+706,,BC FD Disp 2,D,FD Dispatch 2,Fire Dispatch,Beaufort County,99,all
+718,,BC DPW,D,Dept of Public Works,Public Works,Beaufort County,99,all
+722,,BC DPW,D,Dept of Public Works,Public Works,Beaufort County,99,all
+759,,BC Bldg Mntc,D,Building Maintenance,Public Works,Beaufort County,99,all
+761,,BC Mosquito,D,Mosquito Control,Public Works,Beaufort County,99,all
+766,,BJWSA,D,Beaufort Jasper Water and Sewer Authority,Public Works,Beaufort County,99,all
+768,,South Is PSD,D,South Island Public Service District,Public Works,Beaufort County,99,all
+770,,HHI PSD,D,Hilton Head Island Public Service District,Public Works,Beaufort County,99,all
+772,,BJWSA Meters,D,Beaufort Jasper Water and Sewer Authority Meters,Public Works,Beaufort County,99,all
+773,,BJWSA Data,D,Beaufort Jasper Water and Sewer Authority Data,Public Works,Beaufort County,99,all
+774,,BJWSA Meters,D,Beaufort Jasper Water and Sewer Authority Meters 2,Public Works,Beaufort County,99,all
+780,,BJWSA HL,D,Beaufort Jasper Water and Sewer Authority Hampton Lakes,Public Works,Beaufort County,99,all
+788,,BC AnimalCtl,D,Animal Control,Public Works,Beaufort County,99,all
+1011,,BCSD Uniform,D,Sheriff Uniform Dispatch,Law Dispatch,Berkeley County,99,all
+1012,,BCSD Ops 1,D,Sheriff Ops 1,Law Tac,Berkeley County,99,all
+1019,,BCSD Invest,D,Sheriff Investigations Records,Law Tac,Berkeley County,99,all
+1021,,BCSD SRT,D,Sheriff Special Response Team,Law Tac,Berkeley County,99,all
+1023,,BCSD Natcs,DE,Sheriff Narcotics,Law Tac,Berkeley County,99,all
+1025,,BC Cities Disp,D,Cities Law Enforcement Dispatch,Law Dispatch,Berkeley County,99,all
+1078,,BC EMS Ops,D,EMS Ops,EMS-Tac,Berkeley County,99,all
+1311,,SC DHEC Reg 8,D,Region 8,Emergency Ops,SC DHEC,99,all
+1398,,Goose Crk FD Dis,D,Goose Greek FD Dispatch,Fire Dispatch,Berkeley County,99,all
+1399,,Goose Crk FD FG1,D,Goose Creek FD Fireground 1,Fire-Tac,Berkeley County,99,all
+1400,,Goose Crk FD FG2,D,Goose Creek FD Fireground 2,Fire-Tac,Berkeley County,99,all
+1408,,Goose Crk PD,D,Goose Creek PD,Law Dispatch,Berkeley County,99,all
+1413,,Hanahan FD,D,Hanahan FDEMS Dispatch,Fire Dispatch,Berkeley County,99,all
+1415,,Hanahan PD,D,Hanahan PD,Law Dispatch,Berkeley County,99,all
+1426,,DC Incident 5,D,Incident 5,Fire-Tac,Dorchester County,99,all
+1429,,Pine Ridge FD,D,Pine Ridge FD Ops,Fire-Tac,Berkeley County,99,all
+1440,,Whitesvl FD,D,Whitesville FD Ops,Fire-Talk,Berkeley County,99,all
+1500,,CC Govt 1,D,Government 1,Public Works,Charleston County,99,all
+1502,,CC Build Ser,D,Building Services,Public Works,Charleston County,99,all
+1503,,CC Busin Lic,D,Business Licenses,Public Works,Charleston County,99,all
+1504,,CC Capitol P,D,Capital Projects,Public Works,Charleston County,99,all
+1505,,CC Del Taxes,D,Delinquent Taxes,Public Works,Charleston County,99,all
+1506,,CC Election,D,Election Warehouse,Public Works,Charleston County,99,all
+1507,,CC Facilitie,D,Facilities Management,Public Works,Charleston County,99,all
+1508,,CC Fleet Ops,D,Fleet Ops,Public Works,Charleston County,99,all
+1510,,CC Jail Main,D,Jail Maintenance,Public Works,Charleston County,99,all
+1512,,CC Garage,D,Garage Operations,Public Works,Charleston County,99,all
+1520,,CC RADIO COM,D,Radio Communications,Public Works,Charleston County,99,all
+1521,,CC FAILSAFE,D,Communications FailsafeSite Trunking,Public Works,Charleston County,99,all
+1523,,CC RADIO SHP,D,Radio Shop,Public Works,Charleston County,99,all
+1524,,CC TELECOMM,D,Telecomm,Public Works,Charleston County,99,all
+1530,,CC PW1 Admn,D,Public Works 1 AdminStormwater,Public Works,Charleston County,99,all
+1531,,CC PW2 Roads,D,Public Works 2 EngineeringRoads,Public Works,Charleston County,99,all
+1532,,CC PW3 Const,D,Public Works 3 Construction,Public Works,Charleston County,99,all
+1533,,CC PW4 Maint,D,Public Works 4 Maintenance,Public Works,Charleston County,99,all
+1534,,CC PW5 Mosqu,D,Public Works 5 Mosquito Control,Public Works,Charleston County,99,all
+1535,,CC SW Admin,D,Solid Waste Administration,Public Works,Charleston County,99,all
+1536,,CC SW Collec,D,Solid Waste Collections,Public Works,Charleston County,99,all
+1537,,CC SW Landfi,D,Solid Waste Landfill,Public Works,Charleston County,99,all
+1538,,CC SW Meetin,D,Solid Waste Meeting,Public Works,Charleston County,99,all
+1550,,CCEMS ATG,D,All ,EMS-Tac,Charleston Co EMS,99,all
+1551,,CCEMS Commnd,D,Command,EMS-Tac,Charleston Co EMS,99,all
+1553,,CCEMS COMMON,D,Common,EMS-Tac,Charleston Co EMS,99,all
+1557,,CCEMS MEET,D,Meeting 1,EMS-Talk,Charleston Co EMS,99,all
+1559,,CCEMS Sp Tms,D,Special Teams,EMS-Tac,Charleston Co EMS,99,all
+1564,,CC FD ATG,D,Fire Department All,Fire-Tac,Charleston Co Fire Departments,99,all
+1566,,AWENDAW FD,D,Awendaw FD Talk,Fire-Talk,Charleston Co Fire Departments,99,all
+1567,,Awndw FD Ops,D,Awendaw FD Ops,Fire-Tac,Charleston Co Fire Departments,99,all
+1575,,CCFD RQ DISP,D,Rescue Dispatch,EMS Dispatch,Charleston Co EMS,99,all
+1576,,CCFD RQ Nght,D,Rescue Night,EMS Dispatch,Charleston Co EMS,99,all
+1577,,CCFD RQ TALK,D,Rescue Talk,EMS-Talk,Charleston Co EMS,99,all
+1578,,CCFD RQ ADMN,D,Rescue Admin,EMS-Tac,Charleston Co EMS,99,all
+1584,,CCEMS CentPt,D,Centre Point ERE,Hospital,Charleston Co EMS,99,all
+1585,,HOSP ER ATG,D,Hospital All,Hospital,Charleston Co EMS,99,all
+1586,,CCEMS E COOP,D,East Cooper ER,Hospital,Charleston Co EMS,99,all
+1587,,CCEMS GRGTWN,D,Georgetown ER,Hospital,Charleston Co EMS,99,all
+1588,,CCEMS MUSC,D,MUSC ER,Hospital,Charleston Co EMS,99,all
+1590,,CCEMS ROPER,D,Roper ER,Hospital,Charleston Co EMS,99,all
+1591,,CCEMS RPR NW,D,Roper Northwoods ER,Hospital,Charleston Co EMS,99,all
+1592,,CCEMS STFRAN,D,St Francis ER,Hospital,Charleston Co EMS,99,all
+1593,,CCEMS SMRVL,D,Summerville ER,Hospital,Charleston Co EMS,99,all
+1594,,CCEMS TRIDEN,D,Trident ER,Hospital,Charleston Co EMS,99,all
+1596,,CCEMS VA HOSP,D,VA Hospital,Hospital,Charleston Co EMS,99,all
+1597,,CCEMS E ROPR,D,East Roper ER,Hospital,Charleston Co EMS,99,all
+1605,,SCHP 1,D,SC Highway Patrol 1,Law Tac,SC State Agencies  Charleston County,99,all
+1606,,SCHP 2,D,SC Highway Patrol 2,Law Tac,SC State Agencies  Charleston County,99,all
+1607,,SLED 1,D,SC Law Enforcement Division 1,Law Tac,SC State Agencies  Charleston County,99,all
+1608,,SLED 2,D,SC Law Enforcement Division 2,Law Tac,SC State Agencies  Charleston County,99,all
+1610,,SEAHAWK1,D,SC SEAHAWK 1,Law Tac,SC State Agencies  Charleston County,99,all
+1611,,SEAHAWK2,D,SC SEAHAWK 2,Law Tac,SC State Agencies  Charleston County,99,all
+1612,,SEAHAWK3,D,SC SEAHAWK 3,Law Tac,SC State Agencies  Charleston County,99,all
+1613,,CHOC USCG,D,Charleston Co to US Coast Guard,Federal,SC State Agencies  Charleston County,99,all
+1620,,Prt Aut Ops1,D,SC Ports Authority PD Ops 1,Law Dispatch,SC State Agencies  Charleston County,99,all
+1621,,Prt Aut Admn,D,SC Ports Authority PD Admin,Law Tac,SC State Agencies  Charleston County,99,all
+1622,,Prt Aut Cmnd,D,SC Ports Authority PD Command,Law Tac,SC State Agencies  Charleston County,99,all
+1625,,CC EPD ALL,D,EPD All,Emergency Ops,Charleston County,99,all
+1628,,CC Incident 7,D,Incident 7,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1629,,CC Incident 8,D,Incident 8,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1630,,CC Incident 9,D,Incident 9,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1631,,CC Incident 10,D,Incident 10,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1632,,CC Incident 11,D,Incident 11,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1633,,CC Incident 12,D,Incident 12,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1634,,CC Incident 13,D,Incident 13,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1635,,CC Incident 14,D,Incident 14,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1636,,CC Incident 15,D,Incident 15,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1637,,CC Incident 16,D,Incident 16,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+1645,,CC Fire Comn,D,Fire Common,Fire-Tac,Charleston Co Fire Departments,99,all
+1646,,Incident 17,D,Fire Ground 1Incident 17,Fire-Tac,Charleston Co Fire Departments,99,all
+1647,,Incident 18,D,Fire Ground 2Incident 18,Fire-Tac,Charleston Co Fire Departments,99,all
+1648,,Incident 19,D,Fire Ground 3Incident 19,Fire-Tac,Charleston Co Fire Departments,99,all
+1649,,Incident 20,D,Fire Ground 4Incident 20,Fire-Tac,Charleston Co Fire Departments,99,all
+1650,,Incident 21,D,Fire Ground 5Incident 21,Fire-Tac,Charleston Co Fire Departments,99,all
+1651,,Incident 22,D,Fire Ground 6Incident 22,Fire-Tac,Charleston Co Fire Departments,99,all
+1652,,Incident 23,D,Fire Ground 7Incident 23,Fire-Tac,Charleston Co Fire Departments,99,all
+1653,,Incident 24,D,Fire Ground 8Incident 24,Fire-Tac,Charleston Co Fire Departments,99,all
+1654,,Incident 25,D,Fire Ground 9Incident 25,Fire-Tac,Charleston Co Fire Departments,99,all
+1655,,Incident 26,D,Fire Ground 10Incident 26,Fire-Tac,Charleston Co Fire Departments,99,all
+1656,,Incident 27,D,Fire Ground 11Incident 27,Fire-Tac,Charleston Co Fire Departments,99,all
+1657,,Incident 28,D,Fire Ground 12Incident 28,Fire-Tac,Charleston Co Fire Departments,99,all
+1658,,Incident 29,D,Fire Ground 13Incident 29,Fire-Tac,Charleston Co Fire Departments,99,all
+1659,,Incident 30,D,Fire Ground 14Incident 30,Fire-Tac,Charleston Co Fire Departments,99,all
+1660,,Incident 31,D,Fire Ground 15Incident 31,Fire-Tac,Charleston Co Fire Departments,99,all
+1661,,Incident 32,D,Fire Ground 16Incident 32,Fire-Tac,Charleston Co Fire Departments,99,all
+1665,,CCSO ALL,D,All,Law Tac,Charleston Co Sheriffs Office,99,all
+1666,,LE COMMON,D,LE Common,Law Tac,Charleston Co Sheriffs Office,99,all
+1667,,CCSNDP,D,North Dispatch,Law Dispatch,Charleston Co Sheriffs Office,99,all
+1668,,CCSNTAC,D,North Tac,Law Tac,Charleston Co Sheriffs Office,99,all
+1669,,CCSO Wst Dis,D,West Dispatch,Law Dispatch,Charleston Co Sheriffs Office,99,all
+1670,,CCSWTAC,D,West Tac,Law Tac,Charleston Co Sheriffs Office,99,all
+1673,,CCSO CID,DE,CID,Law Tac,Charleston Co Sheriffs Office,99,all
+1674,,CCSO Traffic,D,Traffic,Law Tac,Charleston Co Sheriffs Office,99,all
+1675,,CCSSWAT,D,SWAT 1,Law Tac,Charleston Co Sheriffs Office,99,all
+1676,,CCSO SWAT 2,D,SWAT 2,Law Tac,Charleston Co Sheriffs Office,99,all
+1680,,CCSWARR,D,Warrants,Law Talk,Charleston Co Sheriffs Office,99,all
+1682,,CCSO Metro 1,D,Metro 1,Law Tac,Charleston Co Sheriffs Office,99,all
+1683,,CCSO Metro 2,D,Metro 2,Law Tac,Charleston Co Sheriffs Office,99,all
+1684,,CCSO DEA TF1,D,SheriffDEA Task Force 1,Law Tac,Charleston Co Sheriffs Office,99,all
+1685,,CCSO DEA TF2,D,SheriffDEA Task Force 2,Law Tac,Charleston Co Sheriffs Office,99,all
+1686,,CCSCORT,D,Courts,Law Talk,Charleston Co Sheriffs Office,99,all
+1687,,CCSO CORT 1,D,Courts1,Law Tac,Charleston Co Sheriffs Office,99,all
+1688,,CCSDIVE,D,Dive Team,Law Tac,Charleston Co Sheriffs Office,99,all
+1689,,CCSO Marine,D,Marine Patrol,Law Tac,Charleston Co Sheriffs Office,99,all
+1691,,CCSO Harbor,D,Harbor,Law Tac,Charleston Co Sheriffs Office,99,all
+1700,,CC EMERGENCY,D,Emergency,Emergency Ops,Charleston County,99,all
+1704,,CC ALERT,D,Alert,Emergency Ops,Charleston County,99,all
+1705,,CC JAIL OPS,D,Ops,Law Talk,Charleston Co Detention Center,99,all
+1706,,CC JAIL ADMN,D,Admin,Law Talk,Charleston Co Detention Center,99,all
+1707,,CC JAIL ENVR,D,Environmental,Law Talk,Charleston Co Detention Center,99,all
+1708,,CC JAIL TRNS,D,Transport,Law Talk,Charleston Co Detention Center,99,all
+1715,,CC Emerg Mgm,D,Emergency Management,Emergency Ops,Charleston County,99,all
+1716,,CC EPD CMD,D,EPD Command,Emergency Ops,Charleston County,99,all
+1720,,MT PL FD ALL,D,FD All,Fire-Tac,Mount Pleasant,99,all
+1721,,MT PL FD Ops,D,FD Ops,Fire Dispatch,Mount Pleasant,99,all
+1722,,MT PL FD CMD,D,FD Command,Fire-Tac,Mount Pleasant,99,all
+1723,,MT PL FD TRN,D,FD Training,Fire-Tac,Mount Pleasant,99,all
+1727,,MT PL PD Ops,D,PD Ops,Law Dispatch,Mount Pleasant,99,all
+1728,,MT PL PD 2,D,PD 2 Admin,Law Tac,Mount Pleasant,99,all
+1729,,MT PL PD 3,D,PD 3 Investigations,Law Tac,Mount Pleasant,99,all
+1730,,MT PL PD TRN,D,PD Training,Law Tac,Mount Pleasant,99,all
+1731,,MT PL PD ERT,D,PD SWAT Team,Law Tac,Mount Pleasant,99,all
+1732,,MT PL PD NRC,D,PD Narcotics,Law Tac,Mount Pleasant,99,all
+1733,,MT PL PD CMD,D,PD Command,Law Tac,Mount Pleasant,99,all
+1734,,MT PL EVENTS,D,Events Talk,Interop,Mount Pleasant,99,all
+1738,,MT PL GOVT,D,Government,Public Works,Mount Pleasant,99,all
+1739,,MT PL MEETNG,D,Meeting,Interop,Mount Pleasant,99,all
+1740,,MT PL PWD 1,D,Public Works Department 1,Public Works,Mount Pleasant,99,all
+1741,,MT PL PWD 2,D,Public Works Department 2,Public Works,Mount Pleasant,99,all
+1742,,MT PL PWD 3,D,Public Works Department 3,Public Works,Mount Pleasant,99,all
+1743,,MT PL PWD 4,D,Public Works Department 4,Public Works,Mount Pleasant,99,all
+1744,,MT PL GARAGE,D,Garage,Public Works,Mount Pleasant,99,all
+1745,,MT PL WATER1,D,Water and Sewer 1,Public Works,Mount Pleasant,99,all
+1746,,MT PL WATER2,D,Water and Sewer 2,Public Works,Mount Pleasant,99,all
+1747,,MT PL REC 1,D,Recreation 1,Public Works,Mount Pleasant,99,all
+1760,,CCAAPD OPS,D,PD Ops,Law Tac,Charleston Co Aviation Authority,99,all
+1761,,CCAA TALK,D,Talk,Public Works,Charleston Co Aviation Authority,99,all
+1762,,CCAA Command,D,Command,Public Works,Charleston Co Aviation Authority,99,all
+1763,,CCAA Admin,D,Administration,Public Works,Charleston Co Aviation Authority,99,all
+1764,,CCAA Taxi,D,Taxi,Public Works,Charleston Co Aviation Authority,99,all
+1765,,LINCOLNVL FD,D,Lincolnville FireRescue,Fire-Tac,Charleston Co Fire Departments,99,all
+1770,,STPFD  ALL,D,St Pauls FD All,Fire-Tac,Charleston Co Fire Departments,99,all
+1771,,STPFD OPS,D,St Pauls FD Ops,Fire-Tac,Charleston Co Fire Departments,99,all
+1772,,STPFD COMMND,D,St Pauls FD Command,Fire-Tac,Charleston Co Fire Departments,99,all
+1773,,STPFD TRAING,D,St Pauls FD Training,Fire-Tac,Charleston Co Fire Departments,99,all
+1775,,NCPD EMERGEN,D,PD Emergency,Law Tac,North Charleston,99,all
+1776,,NCPD NORTH,D,PD North Dispatch,Law Dispatch,North Charleston,99,all
+1777,,NCPD MTG A,D,PD Meeting A,Law Talk,North Charleston,99,all
+1778,,NCPD SOUTH,D,PD South Dispatch,Law Dispatch,North Charleston,99,all
+1779,,NCPD CENTRAL,D,PD Central Dispatch,Law Dispatch,North Charleston,99,all
+1780,,NCPD RECORDS,D,PD Records,Law Talk,North Charleston,99,all
+1781,,NCPD DUTY OF,D,PD Duty Officer,Law Tac,North Charleston,99,all
+1782,,NCPD DETECTS,D,PD Detectives,Law Tac,North Charleston,99,all
+1783,,NCPD Traffic,D,PD Traffic,Law Tac,North Charleston,99,all
+1784,,NCPD SPEED T,D,PD Speed Team,Law Tac,North Charleston,99,all
+1785,,NCPD Admin,D,PD Admin,Law Talk,North Charleston,99,all
+1786,,NCPD SOP C,D,PD SOP C,Law Tac,North Charleston,99,all
+1787,,NCPD NACOTIC,D,PD Narcotics,Law Tac,North Charleston,99,all
+1788,,NCPD SWAT,D,PD SWAT,Law Tac,North Charleston,99,all
+1805,,NCFD OPS,D,FD Dispatch,Fire Dispatch,North Charleston,99,all
+1806,,NCFD Admin,D,FD Admin,Fire-Tac,North Charleston,99,all
+1807,,NCFD RIT,D,FD RIT,Fire-Tac,North Charleston,99,all
+1808,,NCFD EMERG,D,FD Emergency,Fire-Tac,North Charleston,99,all
+1809,,NCFD Trainin,D,FD Training,Fire-Tac,North Charleston,99,all
+1810,,NCFD Inspect,D,FD Inspectors,Fire-Tac,North Charleston,99,all
+1811,,NCFD Nite,D,FD Nite,Fire-Tac,North Charleston,99,all
+1834,,NCPD COMMON,D,Common,Interop,North Charleston,99,all
+1835,,NC COMMON,D,Building Ops,Public Works,North Charleston,99,all
+1836,,NC PARKS REC,D,Parks and Recreation,Public Works,North Charleston,99,all
+1837,,NC BUILD COD,D,Building and Codes,Public Works,North Charleston,99,all
+1838,,NC Parking,D,Parking,Public Works,North Charleston,99,all
+1839,,NC PW ADMIN,D,Public Works Admin,Public Works,North Charleston,99,all
+1840,,NC MAINTEN,D,Public Works Maintenance,Public Works,North Charleston,99,all
+1841,,NC SANITATIO,D,Public Works Sanitation,Public Works,North Charleston,99,all
+1842,,NC GOVT,D,Government,Public Works,North Charleston,99,all
+1843,,NC COL SEC,D,Coliseum Security,Business,North Charleston,99,all
+1844,,NC COL GUEST,D,Coliseum Guest Services,Business,North Charleston,99,all
+1845,,NC COL PARK,D,Coliseum Parking,Business,North Charleston,99,all
+1850,,IOP FD ATG,D,FD All,Fire-Tac,Isle of Palms,99,all
+1851,,IOP FD Ops,D,FD Ops,Fire-Tac,Isle of Palms,99,all
+1852,,IOP FD Cmnd,D,FD Command,Fire-Tac,Isle of Palms,99,all
+1853,,IOP FD Train,D,FD Training,Fire-Tac,Isle of Palms,99,all
+1856,,IOP ISLD DIS,D,Island Dispatch,Multi-Dispatch,Isle of Palms,99,all
+1857,,IOP PD Recor,D,PD Records,Law Talk,Isle of Palms,99,all
+1858,,IOP PD 1,D,PD 1,Law Dispatch,Isle of Palms,99,all
+1864,,IOP Water 2,D,Water 2,Public Works,Isle of Palms,99,all
+1866,,IOP Water 1,D,Water 1,Public Works,Isle of Palms,99,all
+1867,,IOP Gov,D,Government,Public Works,Isle of Palms,99,all
+1868,,IOP PWD,D,Public Works,Public Works,Isle of Palms,99,all
+1869,,IOP REC,D,Recreation,Public Works,Isle of Palms,99,all
+1870,,SI FD ALL,D,FD All,Fire-Tac,Sullivans Island,99,all
+1871,,SI FD OPS,D,FD Ops,Fire Dispatch,Sullivans Island,99,all
+1872,,SI FD COMMND,D,FD Command,Fire-Tac,Sullivans Island,99,all
+1873,,SI FD TRAING,D,FD Training,Fire-Tac,Sullivans Island,99,all
+1874,,SLVNS IS GOV,D,Government,Interop,Sullivans Island,99,all
+1875,,SI PD OPS,D,PD Ops,Law Dispatch,Sullivans Island,99,all
+1876,,SI PD COMMND,D,PD Command,Law Tac,Sullivans Island,99,all
+1877,,SI PD TALK,D,PD Talk,Law Talk,Sullivans Island,99,all
+1880,,JI FD ATG,D,FD All,Fire-Tac,James Island,99,all
+1881,,JI FD Ops,D,FD Ops,Fire Dispatch,James Island,99,all
+1882,,JI FD Comand,D,FD Command,Fire-Tac,James Island,99,all
+1883,,JI FD Traini,D,FD Training,Fire-Tac,James Island,99,all
+1884,,JI FD Evnt 2,D,FD Event 2,Fire-Tac,James Island,99,all
+1885,,JI Water,D,Water,Public Works,James Island,99,all
+1886,,JI WW Talk,D,Water Talk,Public Works,James Island,99,all
+1887,,JI SW,D,Sewer,Public Works,James Island,99,all
+1890,,STJFD ALL,D,St Johns FD All,Fire-Tac,Charleston Co Fire Departments,99,all
+1891,,STJFD OPS,D,St Johns FD Ops,Fire-Tac,Charleston Co Fire Departments,99,all
+1892,,STJFD Commnd,D,St Johns FD Command,Fire-Tac,Charleston Co Fire Departments,99,all
+1893,,STJFD Traing,D,St Johns FD Training,Fire-Tac,Charleston Co Fire Departments,99,all
+1894,,KIAWAH OPS,D,Town of Kiawah Island Ops,Security,Charleston County,99,all
+1899,,SEABROOK OPS,D,Seabrook Island Ops,Security,Charleston County,99,all
+1900,,FOLLY BCH PS,D,Public Safety Ops,Law Dispatch,Folly Beach,99,all
+1901,,FOLLY NITE,D,Public Safety Night,Fire-Tac,Folly Beach,99,all
+1902,,FOLLY TALK,D,Talk,Law Talk,Folly Beach,99,all
+1903,,FOLLY ADMIN,D, Admin,Law Tac,Folly Beach,99,all
+1910,,CITADEL PS 1,D,Citadel College Public Safety 1,Security,Charleston Co Colleges and Schools,99,all
+1911,,CITADEL PS 2,D,Citadel College Public Safety 2,Security,Charleston Co Colleges and Schools,99,all
+1912,,CITADEL EVTS,D,Citadel College Special Events,Schools,Charleston Co Colleges and Schools,99,all
+1914,,C of C PS,D,College of Charleston Public Safety,Security,Charleston Co Colleges and Schools,99,all
+1930,,TRIDENT PS,D,Trident Technical College Public Safety,Security,Charleston Co Colleges and Schools,99,all
+1931,,TRIDENT TECH,D,Trident Technical College,Schools,Charleston Co Colleges and Schools,99,all
+1932,,TRIDENT TECH,D,Trident Technical College,Schools,Charleston Co Colleges and Schools,99,all
+1935,,CC Schools,D,Charleston Co School District,Schools,Charleston Co Colleges and Schools,99,all
+1945,,CCPR OPS,D,Operations,Public Works,Charleston Co Parks and Rec,99,all
+1946,,CCPR BWP,D,BWP,Public Works,Charleston Co Parks and Rec,99,all
+1947,,CCPR FBCP,D,Folly Beach County Park,Public Works,Charleston Co Parks and Rec,99,all
+1948,,CCPR IOP,D,Isle of Palms,Public Works,Charleston Co Parks and Rec,99,all
+1949,,CCPR JICP,D,James Island County Park,Public Works,Charleston Co Parks and Rec,99,all
+1950,,CCPR JIP MX,D,James Island County Park Maintenance,Public Works,Charleston Co Parks and Rec,99,all
+1951,,CCPR PICP,D,PICP,Public Works,Charleston Co Parks and Rec,99,all
+1952,,CCPR WCP,D,Wannamaker County Park,Public Works,Charleston Co Parks and Rec,99,all
+1953,,CCPR WCP LG,D,Wannamaker County Park LG,Public Works,Charleston Co Parks and Rec,99,all
+1954,,CCPR SP FAC,D,Special Facilities,Public Works,Charleston Co Parks and Rec,99,all
+1955,,CCPR MAINT,D,Maintenance,Public Works,Charleston Co Parks and Rec,99,all
+1956,,CCPR RECR,D,Recreation,Public Works,Charleston Co Parks and Rec,99,all
+1957,,CCPR FBP LG,D,Folly Beach County Park LG,Public Works,Charleston Co Parks and Rec,99,all
+1965,,CWS Dispatch,D,Dispatch,Public Works,Charleston Water Service,99,all
+1966,,CWS Water,D,Water,Public Works,Charleston Water Service,99,all
+1967,,CWS Waste,D,Waste,Public Works,Charleston Water Service,99,all
+1968,,CWS Meter Se,D,Meter Service,Public Works,Charleston Water Service,99,all
+1969,,CWS Meter Re,D,Meter Reader,Public Works,Charleston Water Service,99,all
+1971,,NCSD SYSTEMS,D,Sewer District Systems,Public Works,North Charleston,99,all
+1972,,NCSD PLANT,D,Sewer District Plant,Public Works,North Charleston,99,all
+1973,,NCSD SUPERS,D,Sewer District Supervisors,Public Works,North Charleston,99,all
+1975,,SC Reg Govt,D,Regional Govt,Interop,SC Interoperability,99,all
+1992,,Chs PD MeetD,D,PD Meeting D,Law Talk,Charleston City,99,all
+1993,,Chs PD MeetC,D,PD Meeting C,Law Talk,Charleston City,99,all
+1995,,Chs PD MeetA,D,PD Meeting A,Law Talk,Charleston City,99,all
+1996,,Chs PD EvntD,D,PD Event D,Law Tac,Charleston City,99,all
+1999,,Chs PD Evt A,D,PD Event A,Law Tac,Charleston City,99,all
+2000,,CHAS RADIO,D,Radio Shop,Business,Charleston City,99,all
+2001,,Chs Parking,D,Parking Enforcement Multiservice channel,Public Works,Charleston City,99,all
+2010,,Chs PD Penin,D,PD Ch1 Peninsula Dispatch,Law Dispatch,Charleston City,99,all
+2011,,Chs PD W Ash,D,PD Ch3 West AshleyDaniel Island Dispatch,Law Dispatch,Charleston City,99,all
+2012,,Chs PD Recrd,D,PD Records,Law Talk,Charleston City,99,all
+2025,,Chs PD SWAT,DE,PD SWAT A,Law Tac,Charleston City,99,all
+2028,,Chs PD Traff,D,PD Traffic,Law Tac,Charleston City,99,all
+2030,,Chs FD 1 Ops,D,FD Ch1 Ops,Fire Dispatch,Charleston City,99,all
+2050,,CCEMS OPS,D,Ops,EMS Dispatch,Charleston Co EMS,99,all
+2051,,CC FDEMS DISP,D,Dispatch Fire and EMS,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2052,,CC EAST OPS,D,East Zone Dispatch,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2053,,CC WEST OPS,D,West Zone Dispatch,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2054,,CC Incident 1,D,Incident 1,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2055,,CC Incident 2,D,Incident 2,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2056,,CC Incident 3,D,Incident 3,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2057,,CC Incident 4,D,Incident 4,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2058,,CC NORTH NIT,D,North Zone Night,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2059,,CC SOUTH NIT,D,South Zone Night,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2060,,CC EAST NITE,D,East Zone Night,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2061,,CC WEST NITE,D,West Zone Night,Fire Dispatch,Charleston Co FDEMS Zone Dispatch,99,all
+2062,,CC Inc 5EMS Ops,D,Incident 5EMS Ops,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2063,,CC Incident 6,D,Incident 6,Fire-Tac,Charleston Co FDEMS Zone Dispatch,99,all
+2066,,STPFD Ops,D,St Pauls FD Ops,Fire-Tac,Charleston Co Fire Departments,99,all
+2070,,ST ANDRWS FD,D,St Andrews FD All,Fire-Tac,Charleston Co Fire Departments,99,all
+2071,,ST ANDRWS FD,D,St Andrews FD OpsDispatch,Fire-Tac,Charleston Co Fire Departments,99,all
+2072,,ST ANDRWS FD,D,St Andrews FD Admin,Fire-Tac,Charleston Co Fire Departments,99,all
+2381,,Fam Med Trnspt,D,Family Medical Transport ,EMS-Tac,Ambulance Services,99,all
+2389,,CCEMS Rop Berk,D,Roper Berkeley ER,Hospital,Charleston Co EMS,99,all
+2707,,Hardeeville FD,D,Hardeeville FDEMS Dispatch,Fire Dispatch,Jasper County,99,all
+2809,,SC DHEC Reg 7,D,Region 7,Emergency Ops,SC DHEC,99,all
+2815,,SC DHEC Reg 6,D,Region 6,Emergency Ops,SC DHEC,99,all
+2921,,Colltn SD Disp,D,SD Dispatch,Law Dispatch,Colleton County,99,all
+2922,,Colltn SD Tac,D,Sheriff Tac,Law Tac,Colleton County,99,all
+2931,,Colltn FR Disp,DE,FD and EMS Dispatch,Fire Dispatch,Colleton County,99,all
+2932,,Colltn FR Alert,D,Fire and EMS Alert,Fire Dispatch,Colleton County,99,all
+2943,,Colltn Roam,D,Roam,Interop,Colleton County,99,all
+2951,,Colltn SD Ops 8,DE,Sheriff Ops 8,Law Tac,Colleton County,99,all
+2954,,Colltn FD Admin,DE,Fire Admin,Fire-Tac,Colleton County,99,all
+2961,,Walterboro PD,D,Walterboro PD,Law Dispatch,Colleton County,99,all
+2962,,Walterboro FD,D,Walterboro FD,Fire Dispatch,Colleton County,99,all
+2971,,Edisto PD Ds,D,Edisto Island PD Dispatch,Law Dispatch,Colleton County,99,all
+2972,,Edisto FD Ds,D,Edisto Island FD Dispatch,Fire Dispatch,Colleton County,99,all
+2973,,Edisto Ops,D,Edisto Island Ops,Multi-Tac,Colleton County,99,all
+3256,,Dar Co SD Disp,D,Sheriff Dispatch,Law Dispatch,Darlington County,99,all
+3257,,Dar Co SD,D,Sheriff,Law Tac,Darlington County,99,all
+3259,,Dar CoSD 2,D,Sheriff Ch 2,Law Tac,Darlington County,99,all
+3260,,Dar Co SD 3,D,Sheriff Ch 3,Law Tac,Darlington County,99,all
+3466,,Dar Co FD Disp,D,Fire Dispatch,Fire Dispatch,Darlington County,99,all
+3470,,Darlingtn PD,D,Darlington City PD Dispatch,Law Dispatch,Darlington County,99,all
+3477,,Hartsvl FD,D,Hartsville FD Dispatch,Fire Dispatch,Darlington County,99,all
+3478,,Hartsvl FD,D,Hartsville FD Tac,Fire-Tac,Darlington County,99,all
+3481,,Hartsvl PD,D,Hartsville PD Dispatch,Law Dispatch,Darlington County,99,all
+3501,,Dillon SD 1,D,Sheriff Ch 1Latta PDLake View PD Dispatch,Law Dispatch,Dillon County,99,all
+3502,,Dillon SD 2,DE,Sherrif Ch 2,Law Tac,Dillon County,99,all
+4103,,DC SD Disp,D,Sheriff Dispatch,Law Dispatch,Dorchester County,99,all
+4106,,DC SD Tac,D,Sheriff Tac,Law Tac,Dorchester County,99,all
+4107,,DC SD Admin,D,Sheriff Admin,Law Tac,Dorchester County,99,all
+4109,,DC Tac 1,D,Tac 1,Multi-Tac,Dorchester County,99,all
+4110,,DC Tac 2,D,Tac 2,Multi-Tac,Dorchester County,99,all
+4111,,DC Tac 3,D,Tac 3,Multi-Tac,Dorchester County,99,all
+4112,,DC Tac 4,D,Tac 4,Multi-Tac,Dorchester County,99,all
+4135,,St George PD,D,St George PD Dispatch,Law Dispatch,Dorchester County,99,all
+4140,,DC Incident 3,D,Incident 3,Fire-Tac,Dorchester County,99,all
+4141,,DC Incident 2,D,Incident 2,Fire-Tac,Dorchester County,99,all
+4142,,DC EMS Disp,D,EMS Dispatch,EMS Dispatch,Dorchester County,99,all
+4165,,DC FD Disp,D,Fire Dispatch Incident 9,Fire Dispatch,Dorchester County,99,all
+4166,,DC Incident 1,D,Incident 1,Fire-Tac,Dorchester County,99,all
+4167,,DC Incident 8,D,Incident 8,Fire-Tac,Dorchester County,99,all
+4171,,Colleton ER,D,Colleton ER,Hospital,Dorchester County,99,all
+4172,,Summervl ER,D,Summerville ER,Hospital,Dorchester County,99,all
+4173,,Trident ER,D,Trident ER,Hospital,Dorchester County,99,all
+4240,,DC LE Roam,D,Roam Law Enforcement,Law Tac,Dorchester County,99,all
+4350,,Summerville PD,DE,Summerville PD,Law Tac,Dorchester County,99,all
+4351,,Summerville PD,DE,Summerville PD,Law Tac,Dorchester County,99,all
+4353,,Summerville PD,DE,Summerville PD,Law Tac,Dorchester County,99,all
+4356,,Summerville Ops5,DE,Summerville Ops 5,Fire-Tac,Dorchester County,99,all
+4357,,DC SD Ops6 Narc,DE,Sheriff Ops 6 Narcotics,Law Tac,Dorchester County,99,all
+4360,,Summerville Ops1,D,Summerville Ops 1,Fire-Tac,Dorchester County,99,all
+4361,,Summerville Ops2,D,Summerville Ops 2,Fire-Tac,Dorchester County,99,all
+4362,,Summerville Ops3,D,Summerville Ops 3,Fire-Tac,Dorchester County,99,all
+4363,,Summerville Ops4,D,Summerville Ops 4,Fire-Tac,Dorchester County,99,all
+4365,,Summrvl FD Dis,D,Summerville FD Dispatch,Fire Dispatch,Dorchester County,99,all
+4368,,Summerville Ops9,D,Summerville Ops 9,Fire-Tac,Dorchester County,99,all
+4369,,Summerville Ops8,D,Summerville Ops 8,Fire-Tac,Dorchester County,99,all
+4370,,Summerville Ops7,DE,Summerville Ops 7,Fire-Tac,Dorchester County,99,all
+4371,,Summerville PD,DE,Summerville PD,Law Tac,Dorchester County,99,all
+4395,,DC Incident 4,D,Incident 4,Fire-Tac,Dorchester County,99,all
+4410,,DC Incident 7,D,Incident 7,Fire-Tac,Dorchester County,99,all
+4425,,DC Incident 6,D,Incident 6,Fire-Tac,Dorchester County,99,all
+4501,,FC Mut Aid 1,D,Mutual Aid 1,Multi-Tac,Florence County,99,all
+4502,,FC Mut Aid 2,D,Mutual Aid 2,Multi-Tac,Florence County,99,all
+4503,,FC Mut Aid 3,D,Mutual Aid 3,Multi-Tac,Florence County,99,all
+4511,,FC CivilDef1,D,Civil Defense Emergency 1,Emergency Ops,Florence County,99,all
+4512,,FC CivilDef2,D,Civil Defense Emergency 1,Emergency Ops,Florence County,99,all
+4551,,FC Event 1,D,Event 1,Multi-Tac,Florence County,99,all
+4552,,FC Event 2,D,Event 2,Multi-Tac,Florence County,99,all
+4553,,FC Event 3,D,Event 3,Multi-Tac,Florence County,99,all
+4554,,FC Event 4,D,Event 4,Multi-Tac,Florence County,99,all
+4555,,FC Event 5,D,Event 5,Multi-Tac,Florence County,99,all
+4556,,FC Event 6,D,Event 6,Multi-Tac,Florence County,99,all
+4557,,FC Event 7,D,Event 7,Multi-Tac,Florence County,99,all
+4558,,FC Event 8,D,Event 8,Multi-Tac,Florence County,99,all
+4559,,FC Event 9,D,Event 9,Multi-Tac,Florence County,99,all
+4560,,FC Event 10,D,Event 10,Multi-Tac,Florence County,99,all
+4561,,FC Event 11,D,Event 11,Multi-Tac,Florence County,99,all
+4562,,FC Event 12,D,Event 12,Multi-Tac,Florence County,99,all
+4601,,FC SD Disp,DE,Sheriff Dispatch,Law Dispatch,Florence County,99,all
+4611,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4612,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4641,,EffinghmJail,D,Effingham Jail,Corrections,Florence County,99,all
+4651,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4654,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4660,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4671,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4672,,FC LE,DE,Unknown Law Enforcement,Law Tac,Florence County,99,all
+4700,,FCFD Common,D,Fire Common,Fire Dispatch,Florence County,99,all
+4701,,FCFD Alert N,D,Fire Alert North,Fire Dispatch,Florence County,99,all
+4702,,FCFD Disp N,D,Fire Dispatch North,Fire Dispatch,Florence County,99,all
+4703,,FCFD Alert S,D,Fire Alert South,Fire Dispatch,Florence County,99,all
+4704,,FCFD Disp S,D,Fire Dispatch South,Fire Dispatch,Florence County,99,all
+4705,,FCFD Command,D,Fire Command,Fire-Tac,Florence County,99,all
+4706,,FCFD Tac 1,D,Fire Tac 1,Fire-Tac,Florence County,99,all
+4707,,FCFD Tac 2,D,Fire Tac 2,Fire-Tac,Florence County,99,all
+4708,,FCFD Tac 3,D,Fire Tac 3,Fire-Tac,Florence County,99,all
+4709,,FCFD Tac 4,D,Fire Tac 4,Fire-Tac,Florence County,99,all
+4710,,FCFD Tac 5,D,Fire Tac 5,Fire-Tac,Florence County,99,all
+4711,,FCFD Tac 6,D,Fire Tac 6,Fire-Tac,Florence County,99,all
+4712,,FCFD Tac 7,D,Fire Tac 7,Fire-Tac,Florence County,99,all
+4713,,FCFD Tac 8,D,Fire Tac 8,Fire-Tac,Florence County,99,all
+4714,,FCFD Tac 9,D,Fire Tac 9,Fire-Tac,Florence County,99,all
+4715,,FCFD Tac 10,D,Fire Tac 10,Fire-Tac,Florence County,99,all
+4716,,FCFD Tac 11,D,Fire Tac 11,Fire-Tac,Florence County,99,all
+4717,,FCFD Tac 12,D,Fire Tac 12,Fire-Tac,Florence County,99,all
+4750,,FCFD Call,D,Fire Call,Fire-Tac,Florence County,99,all
+4752,,Howe Spr FD,D,Howe Springs FD,EMS-Talk,Florence County,99,all
+4753,,S Lynches FD,D,South Lynches FD,EMS-Talk,Florence County,99,all
+4754,,WindyHill FD,D,Windy Hill FD,EMS-Talk,Florence County,99,all
+4755,,WFlorence FD,D,West Florence FD,EMS-Talk,Florence County,99,all
+4756,,Timmonsvl FD,D,Timmonsville FD,EMS-Talk,Florence County,99,all
+4757,,Johnsonvl FD,D,Johnsonville FD,EMS-Talk,Florence County,99,all
+4758,,SardisTim FD,D,Sardis Timmonsville FD,EMS-Talk,Florence County,99,all
+4759,,Olanta FD,D,Olanta FD,EMS-Talk,Florence County,99,all
+4760,,HanSalmFrdFD,D,Hanna Salem Friendfield FD,EMS-Talk,Florence County,99,all
+4761,,Lake City FD,D,Lake City FD,EMS-Talk,Florence County,99,all
+4763,,Florence FD,D,Florence FD,EMS-Talk,Florence County,99,all
+4800,,FC EMS Commn,D,EMS Common,EMS Dispatch,Florence County,99,all
+4801,,FC EMS 1A,D,EMS 1A,EMS Dispatch,Florence County,99,all
+4802,,FC EMS 1B,D,EMS 1B,EMS Dispatch,Florence County,99,all
+4811,,FC Rescue 1,D,Rescue 1,EMS Dispatch,Florence County,99,all
+4812,,FC Rescue 2,D,Rescue 2,EMS Dispatch,Florence County,99,all
+4821,,FC EMS McLeo,D,EMS McLeod Hospital,Hospital,Florence County,99,all
+4822,,FC EMS Carln,D,EMS Carolinas Hospital,Hospital,Florence County,99,all
+4823,,FC EMS LkCty,D,EMS Lake City Hospital,Hospital,Florence County,99,all
+4851,,FC DPW,D,Public Works,Public Works,Florence County,99,all
+4852,,FC DPW,D,Public Works,Public Works,Florence County,99,all
+4862,,FC Env Svc,D,Environmental Services,Public Works,Florence County,99,all
+4871,,FC Const,D,Magistrate Constables,Law Tac,Florence County,99,all
+4872,,FC Const,D,Magistrate Constables,Law Tac,Florence County,99,all
+5001,,GC SD Disp,D,Sheriff Dispatch,Law Dispatch,Georgetown County,99,all
+5002,,GC SD Ch 2,D,Sheriff Ch 2,Law Talk,Georgetown County,99,all
+5041,,GC FD Disp,D,FD Disp,Fire Dispatch,Georgetown County,99,all
+5042,,GC FD Tac 6,D,Fire Tac 6,Fire-Tac,Georgetown County,99,all
+5043,,GC FD Admin,D,County Fire Admin,Fire-Talk,Georgetown County,99,all
+5081,,Waccamaw Hosp,D,Waccamaw Hospital,Hospital,Georgetown County,99,all
+5082,,Georgetown Hosp,D,Georgetown Hosp,Hospital,Georgetown County,99,all
+5143,,GC FD Tac 7,D,Fire Tac 7,Fire-Tac,Georgetown County,99,all
+5351,,Andrews PD,D,Andrews PD,Law Dispatch,Georgetown County,99,all
+5381,,Georgetown PD,D,Georgetown City PD,Law Dispatch,Georgetown County,99,all
+5388,,Georgetown FD,D,Georgetown City FD,Fire Dispatch,Georgetown County,99,all
+5390,,GC FD Tac 4,D,Fire Tac 4,Fire-Tac,Georgetown County,99,all
+5392,,GC FD Tac 5,D,Fire Tac 5,Fire-Tac,Georgetown County,99,all
+5411,,Midway FD,D,Midway FD Dispatch,Fire Dispatch,Georgetown County,99,all
+5412,,GC FD Tac 2 Mdwy,D,Fire Tac 2 Midway FD,Fire-Tac,Georgetown County,99,all
+5413,,GC FD Tac 3,D,Fire Tac 3,Fire-Tac,Georgetown County,99,all
+5441,,MIGC FD,D,Murrells Inlet Garden City FD Dispatch,Fire Dispatch,Georgetown County,99,all
+5443,,GC FD Tac 1,D,Fire Tac 1,Fire-Tac,Georgetown County,99,all
+6141,,Horry Co Jail,D,Jail Transport,Law Tac,Horry County,99,all
+6501,,Jasper Co SD Dis,D,Sheriff Dispatch,Law Dispatch,Jasper County,99,all
+6541,,Jasper Co FD Dis,D,Fire Dispatch,Fire Dispatch,Jasper County,99,all
+6542,,Jasper FD Tac 1,D,Fire Tac 1,Fire-Tac,Jasper County,99,all
+6543,,Japser FD Tac 2,D,Fire Tac 2,Fire-Tac,Jasper County,99,all
+6851,,Hardeeville PD,D,Hardeeville PD Dispatch,Law Dispatch,Jasper County,99,all
+6881,,Ridgeland PD,D,Ridgeland PD Dispatch,Law Dispatch,Jasper County,99,all
+7501,,Marlb Co SD Disp,D,Sheriff,Law Dispatch,Marlboro County,99,all
+7541,,Marlb Co FD Tac1,D,Fire Department Tac 1,Fire-Tac,Marlboro County,99,all
+7542,,Marlb Co FD Tac2,D,Fire Department Tac 2,Fire-Tac,Marlboro County,99,all
+8001,,Willmsbg SD Tac,D,Sheriff Tac,Law Dispatch,Williamsburg County,99,all
+8002,,Willmsbg SD Disp,DE,Sheriff Dispatch,Law Dispatch,Williamsburg County,99,all
+8381,,Kingstree PD,D,Kingstree PD,Law Dispatch,Williamsburg County,99,all
+8391,,Kingstree FD,D,Kingstree FD,Fire Dispatch,Williamsburg County,99,all
+9520,,Mobl Comm1,DE,Mobile Communications1,Public Works,Charleston County,99,all
+9550,,Radio Techs,D,Motorola Radio Techs,Other,Beaufort County,99,all
+9601,,SCHP Darlngtn,D,Ch 65 DarlingtonMarlboro Dispatch,Law Tac,SCHP Troop 5,99,all
+9602,,SCHP Tac,D,Ch 66 Tac 9,Law Tac,SCHP Troop 5,99,all
+9603,,SCHP Florence,D,Ch 67 FlorenceDillonMarion Dispatch,Law Dispatch,SCHP Troop 5,99,all
+9604,,SCHP Grgtwn,D,Ch 68 GeorgetownWilliamsburg Dispatch,Law Dispatch,SCHP Troop 5,99,all
+9605,,SCHP Tac,D,Ch 69 Tac 10,Law Tac,SCHP Troop 5,99,all
+9606,,SCHP Horry,D,Ch 70 Horry Dispatch,Law Dispatch,SCHP Troop 5,99,all
+9607,,SCTP Tr 5,D,Ch 71 Transport Police Troop 5,Law Tac,SCHP Troop 5,99,all
+9608,,DPS 5,D,Ch 72 DPS 5,Transportation,SCHP Troop 5,99,all
+9609,,SCHP Sp Ops 5,D,Ch 73 Special Ops Troop 5,Law Tac,SCHP Troop 5,99,all
+9611,,SCHP BerkChas,D,Ch 81 BerkeleyCharleston,Law Dispatch,SCHP Troop 6,99,all
+9612,,SCHP Tac 11,D,Ch 82 Tac 11,Law Tac,SCHP Troop 6,99,all
+9613,,SCHP DorchColl,D,Ch 83 DorchesterColleton,Law Dispatch,SCHP Troop 6,99,all
+9614,,SCHP BfrtJasper,D,Ch 84 BeaufortJasper,Law Dispatch,SCHP Troop 6,99,all
+9615,,SCHP Tac 12,D,Ch 85 Tac 12,Law Tac,SCHP Troop 6,99,all
+9616,,SCTP Tr 6,D,Ch 87 Transport Police Troop 6,Law Tac,SCHP Troop 6,99,all
+9617,,DPS 6,D,Ch 88 DPS 6,Public Works,SCHP Troop 6,99,all
+9618,,SCHP Sp Ops 6,D,Ch 89 Special Ops Troop 6,Law Tac,SCHP Troop 6,99,all
+9801,,SLED Pee Dee,D,Peedee,Law Tac,SLED State Law Enforcement Division,99,all
+9802,,SLED Lowcountry,D,Lowcountry,Law Tac,SLED State Law Enforcement Division,99,all
+9902,,SC DNR Reg 4,D,Region 4,Law Tac,SC DNR,99,all
+10001,,SC DHEC Reg 3,D,Region 3,Emergency Ops,SC DHEC,99,all
+10002,,SC DHEC Reg 4,D,Region 4,Emergency Ops,SC DHEC,99,all
+10007,,SC DHEC Hosp Rg3,D,Hospital Region 3,Hospital,SC DHEC,99,all
+10008,,SC DHEC Hosp Rg4,D,Hospital Region 4,Hospital,SC DHEC,99,all
+10392,,Meducare,D,Meducare,EMS Dispatch,SC Medical Helicopters,99,all
+10394,,Meducare Helo,D,Meducare Flight Control,EMS Dispatch,SC Medical Helicopters,99,all
+10395,,Meducare,D,Meducare,EMS Dispatch,SC Medical Helicopters,99,all
+10502,,Bfrt Co EOC,D,Emergency Operations Center,Emergency Ops,Beaufort County,99,all
+10503,,SHEP D5,D,SC DOT SHEP District 5,Public Works,SCHP Troop 5,99,all
+10504,,SHEP D6,D,SC DOT SHEP District 6,Public Works,SCHP Troop 6,99,all
+10605,,SC EMD Pee Dee,D,Pee Dee,Emergency Ops,SC EMD,99,all
+10606,,SC EMD Lowcntry,D,Lowcountry,Emergency Ops,SC EMD,99,all
+10801,,SC E and G,D,SC E and G,Utilities,Utilities,99,all
+20005,,SC Air 2,D,SC Air 2,Emergency Ops,SC Interoperability,99,all
+20006,,SC Mut Aid 11,D,Mutual Aid 11,Interop,SC Interoperability,99,all
+20007,,SC Mut Aid 12,D,Mutual Aid 12,Interop,SC Interoperability,99,all
+20008,,SC Mut Aid 13,D,Mutual Aid 13,Interop,SC Interoperability,99,all
+20009,,Fed Call,D,Federal Calling Channel,Interop,SC Interoperability,99,all
+20010,,SC CALL,D,Statewide Calling Channel,Interop,SC Interoperability,99,all
+20011,,SC Mut Aid 1,D,Mutual Aid 1,Interop,SC Interoperability,99,all
+20012,,SC Mut Aid 2,D,Mutual Aid 2,Interop,SC Interoperability,99,all
+20013,,SC Mut Aid 3,D,Mutual Aid 3,Interop,SC Interoperability,99,all
+20014,,SC Mut Aid 4,D,Mutual Aid 4,Interop,SC Interoperability,99,all
+20015,,SC Mut Aid 5,D,Mutual Aid 5,Interop,SC Interoperability,99,all
+20016,,SC Mut Aid 6,D,Mutual Aid 6,Interop,SC Interoperability,99,all
+20017,,SC Mut Aid 7,D,Mutual Aid 7,Interop,SC Interoperability,99,all
+20018,,SC Mut Aid 8,D,Mutual Aid 8,Interop,SC Interoperability,99,all
+20019,,SC Mut Aid 9,D,Mutual Aid 9,Interop,SC Interoperability,99,all
+20020,,SC Mut Aid 10,D,Mutual Aid 10,Interop,SC Interoperability,99,all
+20021,,State Air Grnd,D,State Air Ground,Emergency Ops,SC Interoperability,99,all
+20022,,SC Reg Govt 1,D,Regional Govt 1,Interop,SC Interoperability,99,all
+20023,,SC Reg Govt 7,D,Regional Govt 7,Interop,SC Interoperability,99,all
+20024,,SC Reg Govt 8,D,Regional Govt 8,Interop,SC Interoperability,99,all
+20025,,SC Reg Govt 9,D,Regional Govt 9,Interop,SC Interoperability,99,all
+20026,,SC Reg Govt 10,D,Regional Govt 10,Interop,SC Interoperability,99,all
+20027,,LE Call,D,LE Call,Law Tac,SC Interoperability,99,all
+20028,,SC LE Comm 1,D,LE Common 1,Law Tac,SC Interoperability,99,all
+20029,,SC LE Comm 7,D,LE Common 7,Law Tac,SC Interoperability,99,all
+20030,,SC LE Comm 8,D,LE Common 8,Law Tac,SC Interoperability,99,all
+20031,,SC LE Comm 9,D,LE Common 9,Law Tac,SC Interoperability,99,all
+20032,,SC LE Comm 10,D,LE Common 10,Law Tac,SC Interoperability,99,all
+20033,,Utility Call,D,Utility Call,Interop,SC Interoperability,99,all
+20034,,Utility MA 1,D,Utility Mutual Aid 1,Interop,SC Interoperability,99,all
+20035,,Utility MA 2,D,Utility Mutual Aid 2,Interop,SC Interoperability,99,all
+20036,,Utility MA 3,D,Utility Mutual Aid 3,Interop,SC Interoperability,99,all
+20037,,Coop Mut Aid,D,Cooperative Mutual Aid,Interop,SC Interoperability,99,all
+20038,,SC LE Comm 11,D,LE Common 11,Law Tac,SC Interoperability,99,all
+20039,,SC LE Comm 12,D,LE Common 12,Law Tac,SC Interoperability,99,all
+20040,,SC LE Comm 13,D,LE Common 13,Law Tac,SC Interoperability,99,all
+20041,,SC LE Comm 14,De,LE Common 14,Law Tac,SC Interoperability,99,all
+20042,,SC LE Comm 15,De,LE Common 15,Law Tac,SC Interoperability,99,all
+20501,,Aiken Co SD DIsp,D,Sheriff Ch 1 Dispatch,Law Dispatch,Aiken County,99,all
+20502,,Aiken Co SD 2,D,Sheriff Ch 2,Law Tac,Aiken County,99,all
+20505,,Aiken Co SD CID,D,Sheriff Ch 3 CID,Law Tac,Aiken County,99,all
+20509,,Aiken Co SD Evt1,D,Sheriff Events 1,Law Tac,Aiken County,99,all
+20519,,Aiken Co SD Adm1,D,Sheriff Admin 1,Law Tac,Aiken County,99,all
+20520,,Aiken Co SD Adm2,D,Sheriff Admin 2,Law Tac,Aiken County,99,all
+20565,,Aiken Co EMS Dsp,D,EMS Ch 1 Dispatch,EMS Dispatch,Aiken County,99,all
+20566,,Aiken EMS 2,D,EMS Ch 2,EMS-Tac,Aiken County,99,all
+20567,,Aiken Co Hosp,D,EMS to Aiken ER,Hospital,Aiken County,99,all
+20568,,Akien EMS 4,D,EMS Ch 4,EMS-Tac,Aiken County,99,all
+20569,,Aiken EMS Roam,D,EMS Roam,EMS-Tac,Aiken County,99,all
+20601,,Aiken Co Anml Cn,D,Animal Control,Public Works,Aiken County,99,all
+20615,,Aiken EMD,D,EMD,Emergency Ops,Aiken County,99,all
+20616,,Aiken EMD Roam,D,EMD Roam,Emergency Ops,Aiken County,99,all
+20851,,Akn City PD Disp,D,Aiken City DPS Ch 1 Dispatch patched to 453650,Law Dispatch,Aiken County,99,all
+20852,,Akn City PD Roam,D,Aiken City DPS Roam,Law Tac,Aiken County,99,all
+20853,,Akn City PD Ops1,D,Aiken City DPS Ops 1,Law Tac,Aiken County,99,all
+20854,,Akn City PD Ops2,D,Aiken City DPS Ops 2,Law Tac,Aiken County,99,all
+20855,,Akn City PD Ops3,D,Aiken City DPS Ops 3,Law Tac,Aiken County,99,all
+20856,,Akn City PD Admn,D,Aiken City DPS Ch 2 Admin,Law Tac,Aiken County,99,all
+20895,,N Augusta DPS 1,D,North Augusta DPS Ch 1 Dispatch,Law Dispatch,Aiken County,99,all
+20896,,N Augusta DPS 2,D,North Augusta DPS Ch 2,Law Tac,Aiken County,99,all
+20905,,N Augusta DPS 3,D,North Augusta DPS Ch 3 Special Events,Law Tac,Aiken County,99,all
+21001,,Allendale SD 1,D,Sheriff 1,Law Tac,Allendale County,99,all
+21002,,Allendale SD 2,D,Sheriff 2,Law Tac,Allendale County,99,all
+21472,,RC EMS 4,D,EMS Ch 4,EMS-Tac,Richland County,99,all
+22066,,Medshore Brnwl,D,Medshore EMS Barnwell County,EMS Dispatch,Barnwell County,99,all
+22501,,Clhn Co SD Disp,D,Sheriff Dispatch,Law Dispatch,Calhoun County,99,all
+22851,,Cameron PD,D,Cameron PD,Law Dispatch,Calhoun County,99,all
+23001,,Clarendon SD,D,Sheriff Dispatch,Law Dispatch,Clarendon County,99,all
+23002,,Clrndn Cities PD,D,Manning Turbeville Summerton PDs,Law Dispatch,Clarendon County,99,all
+23041,,Clarendon FD,D,Fire Dispatch,Fire Dispatch,Clarendon County,99,all
+23065,,Clrndn EMS Disp,D,EMS Dispatch,EMS Dispatch,Clarendon County,99,all
+23071,,Clrndn EMS Hosp,D,EMS to Clarendon Memorial ER,Hospital,Clarendon County,99,all
+23501,,Krsh Co SD Disp,D,Sheriff Dispatch,Law Dispatch,Kershaw County,99,all
+23502,,Krsh Co SD Traff,D,Traffic Unit,Law Tac,Kershaw County,99,all
+23506,,Krsh Co SD Sp Op,D,Sheriff Special Ops,Law Tac,Kershaw County,99,all
+23507,,Krsh Co SD,D,Sheriff,Law Tac,Kershaw County,99,all
+23511,,Krsh Co SD Roam,D,Sheriff Roam,Law Tac,Kershaw County,99,all
+23512,,Krsh Co EMS,D,EMS,EMS-Tac,Kershaw County,99,all
+23541,,Krsh Co FD Disp,D,Fire Dispatch,Fire Dispatch,Kershaw County,99,all
+23545,,Krsh Co FD Ops 1,D,Fire Ops 1,Fire-Tac,Kershaw County,99,all
+23546,,Krsh Co FD Admin,D,Fire Admin,Fire-Tac,Kershaw County,99,all
+23565,,Krsh Co EMS Disp,D,EMS Dispatch,EMS Dispatch,Kershaw County,99,all
+23571,,Krsh Co EMS Hosp,D,EMS to Hospital,Hospital,Kershaw County,99,all
+23641,,Krsh Co Air Ops,D,Air Ops,Multi-Tac,Kershaw County,99,all
+23881,,Camden FD,D,Camden FD,Fire Dispatch,Kershaw County,99,all
+23886,,Camden PD ,D,Camden PD,Law Dispatch,Kershaw County,99,all
+24001,,Lee Co LE Disp,D,Sheriff and Bishopville PD Dispatch,Law Dispatch,Lee County,99,all
+24004,,Lee Co EMS,D,EMS,EMS-Tac,Lee County,99,all
+24041,,Lee Co FDEMS,D,Fire and EMS Dispatch,Fire Dispatch,Lee County,99,all
+24501,,LCSD DSP1,DE,Sheriff Dispatch 1,Law Dispatch,Lexington County,99,all
+24502,,LCSD DSP2,DE,Sheriff Dispatch 2,Law Dispatch,Lexington County,99,all
+24503,,LCSD DSP3,DE,Sheriff Dispatch 3,Law Dispatch,Lexington County,99,all
+24506,,LCSD NORTH,DE,Sheriff North,Law Dispatch,Lexington County,99,all
+24507,,LCSD SOUTH,DE,Sheriff South,Law Dispatch,Lexington County,99,all
+24509,,LCSD WEST,DE,Sheriff West,Law Dispatch,Lexington County,99,all
+24510,,LCSD 4 CO OP,D,Sheriff Coop,Law Tac,Lexington County,99,all
+24515,,LCSD OPS1,DE,Sheriff Ops 1,Law Tac,Lexington County,99,all
+24521,,LEXINGTON PD C,D,Town PDs Central  Lexington S Congaree Pine Ridge  Springdale,Law Dispatch,Lexington County,99,all
+24522,,LEXINGTON PD N,D,Town PDs North  Irmo  Chapin,Law Dispatch,Lexington County,99,all
+24523,,LEXINGTON PD S,D,Town PDs South  Swansea Gaston  Pelion,Law Dispatch,Lexington County,99,all
+24525,,LCPS CMD,D,Fire Command,Fire-Tac,Lexington County,99,all
+24531,,LCPS OPS 1,D,Fire Ops 1,Fire-Tac,Lexington County,99,all
+24532,,LCPS OPS 2,D,Fire Ops 2,Fire-Tac,Lexington County,99,all
+24533,,LCPS OPS 3,D,Fire Ops 3,Fire-Tac,Lexington County,99,all
+24534,,LCPS OPS 4,D,Fire Ops 4,Fire-Tac,Lexington County,99,all
+24535,,LCPS OPS 5,D,Fire Ops 5,Fire-Tac,Lexington County,99,all
+24536,,LCPS OPS 6,D,Fire Ops 6,Fire-Tac,Lexington County,99,all
+24537,,LCPS OPS 7,D,Fire Ops 7,Fire-Tac,Lexington County,99,all
+24538,,LCPS OPS 8,D,Fire Ops 8,Fire-Tac,Lexington County,99,all
+24539,,LCPS OPS 9,D,Fire Ops 9,Fire-Tac,Lexington County,99,all
+24542,,LCPS DISP,D,Fire Dispatch,Fire Dispatch,Lexington County,99,all
+24543,,LCFS ADMIN,D,Fire Admin,Fire-Tac,Lexington County,99,all
+24566,,LCEMS DISP,D,EMS Dispatch,EMS Dispatch,Lexington County,99,all
+24567,,LCEMS ADM,D,EMS Admin,EMS-Tac,Lexington County,99,all
+24569,,LCEMS to PalHlth,D,EMS to Palmetto Health,Hospital,Lexington County,99,all
+24570,,LCEMS to LMC,D,EMS to Lexington Medical Center,Hospital,Lexington County,99,all
+24600,,LexCo Solid Wast,D,Solid Waste,Public Works,Lexington County,99,all
+24644,,LexCo Anim Contr,D,Animal Control,Public Works,Lexington County,99,all
+24671,,LMC Sec 1,D,Lexington Medical Center Police Ch1 ,Law Dispatch,Lexington County,99,all
+24672,,LMC Sec 2,D,Lexington Medical Center Police Ch2,Law Tac,Lexington County,99,all
+24681,,Mid Tech Sec,D,Midlands Technical College Security,Schools,Richland County,99,all
+24716,,WEST COLA PD DIS,D,West Columbia PD Dispatch,Law Dispatch,Lexington County,99,all
+24717,,WEST COLA PD DET,D,West Columbia PD Detectives,Law Tac,Lexington County,99,all
+24719,,WEST COLA PD OPS,D,West Columbia PD Ops 1,Law Tac,Lexington County,99,all
+24865,,CAYCE DPS DISP,D,Cayce DPS Dispatch,Law Dispatch,Lexington County,99,all
+24866,,Cayce DPS,D,Cayce DPS,Law Tac,Lexington County,99,all
+24867,,CAYCE PD TAC1,D,Cayce PD Tac 1,Law Tac,Lexington County,99,all
+24868,,Cayce Roam,D,Cayce Roam,Law Tac,Lexington County,99,all
+24869,,Cayce PD Traff,D,Cayce PD Traffic,Law Tac,Lexington County,99,all
+24871,,CAYCE FD,D,Cayce FD Dispatch,Fire Dispatch,Lexington County,99,all
+24881,,Chapin PD,D,Chapin PD,Law Talk,Lexington County,99,all
+24910,,Irmo FD Talk,D,Irmo FD Talk,Fire-Talk,Lexington County,99,all
+24912,,IRMO PD 1,D,Irmo PD 1,Law Dispatch,Lexington County,99,all
+24913,,IRMO PD 2,D,Irmo PD 2,Law Tac,Lexington County,99,all
+24925,,Lex PD Tac,D,Lexington PD Tac,Law Tac,Lexington County,99,all
+24940,,Pelion PD,D,Pelion PD,Law Talk,Lexington County,99,all
+24985,,Springdale PD,D,Springdale PD,Law Talk,Lexington County,99,all
+25007,,OCSO Dispatch,D,Sheriff Dispatch,Law Dispatch,Orangeburg County,99,all
+25009,,OCSO Talk,D,Sheriff Talk,Law Talk,Orangeburg County,99,all
+25031,,OCSO Talk,D,Sheriff Talk,Law Talk,Orangeburg County,99,all
+25053,,OCFD Dispatch,D,Fire Dispatch,Fire Dispatch,Orangeburg County,99,all
+25057,,OCFD Dispatch,D,Fire Dispatch,Fire Dispatch,Orangeburg County,99,all
+25068,,OCEMS Dispatch,D,EMS Dispatch,EMS Dispatch,Orangeburg County,99,all
+25069,,OCEMS Talk,D,EMS Talk,EMS-Talk,Orangeburg County,99,all
+25081,,OCEMS to TRMC,D,EMS to the Regional Medical Center,Hospital,Orangeburg County,99,all
+25344,,RCES PS,D,Emergency Services,Emergency Ops,Richland County,99,all
+25501,,RCSD 1,D,Sheriff Reg 1 Dispatch,Law Dispatch,Richland County,99,all|rcsd|police
+25502,,RCSD 2,D,Sheriff Reg 2 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
+25503,,RCSD 3,D,Sheriff Reg 3 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
+25504,,RCSD 4,D,Sheriff Reg 4 Dispatch,Law Dispatch,Richland County,99,all|rcsd|police
+25505,,RCSD 5,DE,Sheriff Ch 5,Law Tac,Richland County,99,all|rcsd|police
+25506,,RCSD 6,D,Sheriff Reg 67 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
+25507,,RCSD 7,DE,Sheriff Ch 7,Law Tac,Richland County,99,all|rcsd|police
+25513,,RCSD OPS2,DE,Sheriff Ops 2,Law Tac,Richland County,99,all|rcsd|police
+25514,,RCSD OPS3,D,Sheriff Ops 3,Law Tac,Richland County,50,allfiltered|rcsd|all|police
+25518,,RC TRAFFICCAT,DE,Sheriff TrafficCAT,Law Tac,Richland County,99,all|rcsd|police
+25519,,RCSD INV,DE,Sheriff Investigations,Law Tac,Richland County,99,all|rcsd|police
+25520,,RCSD DSK SGT,DE,Sheriff Desk Sargeant,Law Tac,Richland County,99,all|rcsd|police
+25522,,RCSD MA,D,Sheriff Mutual Aid,Law Tac,Richland County,50,allfiltered|rcsd|all|police
+25552,,CFD DISP,D,Fire Dispatch,Fire Dispatch,Richland County,50,broadcastify|allfiltered|cfd|all
+25553,,CFD OPS1,D,Fire Ops 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25554,,CFD OPS2,D,Fire Ops 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25555,,CFD OPS3,D,Fire Ops 3,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25556,,CFD OPS4,D,Fire Ops 4,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25557,,CFD OPS5,D,Fire Ops 5,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25558,,CFD OPS6,D,Fire Ops 6,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25559,,CFD CMD1,D,Fire Command 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25560,,CFD CMD2,D,Fire Command 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
+25561,,CFD ADMIN 1,D,Fire Admin 1,Fire-Tac,Richland County,99,all|cfd
+25562,,PREVENT,D,Fire Prevention,Fire-Tac,Richland County,99,all|cfd
+25563,,CFD SW,D,Fire Statewide,Fire-Tac,Richland County,99,all|cfd
+25565,,RC EMS 1,D,EMS Dispatch,EMS Dispatch,Richland County,99,all
+25566,,RC EMS 2,D,EMS to Hospital,Hospital,Richland County,99,all
+25567,,RC EMS 3,D,EMS Ch 3,EMS-Tac,Richland County,99,all
+25569,,RCESD 5 Hazmat,D,Hazmat,Emergency Ops,Richland County,99,all|cfd
+25570,,RCESD 6,D,Emergency Services,Emergency Ops,Richland County,99,all
+25571,,RCESD 7,D,Public Safety,Emergency Ops,Richland County,99,all
+25572,,RCESD 8,D,Emergency Services,Emergency Ops,Richland County,99,all
+25641,,RC Coroner,DE,Coroner,Law Tac,Richland County,99,all
+25642,,Rich Co Jail,D,Jail,Law Tac,Richland County,99,all
+25651,,RC School D1,D,School District 1 Security,Schools,Richland County,99,all
+25657,,RC School D2,D,School District 2 Security,Schools,Richland County,99,all
+25665,,COLA EAST,D,Police East Region Dispatch,Law Dispatch,Columbia,50,broadcastify|allfiltered|cpd|all
+25666,,COLA METRO,D,Police Metro Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
+25667,,COLA NORTH,D,Police North Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
+25668,,COLA SOUTH,D,Police South Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
+25669,,COLA WEST,D,Police West Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
+25671,,COLA CSO,D,Police CSO,Law Tac,Columbia,99,all|cpd|police
+25672,,COLA SPECIAL EVT,D,Police Special Events,Law Tac,Columbia,99,all|cpd|police
+25673,,COLA INV,D,Police Investigations,Law Tac,Columbia,99,all|cpd|police
+25675,,COLA OPS1,D,Police Ops 1,Law Tac,Columbia,50,allfiltered|cpd|all|police
+25676,,COLA OPS2,D,Police Ops 2,Law Tac,Columbia,50,allfiltered|cpd|all|police
+25678,,COLA ROAM,D,Police Roam,Law Tac,Columbia,99,all|cpd|police
+25680,,COLA TRU,D,Police Telephone Response Unit TRU,Law Dispatch,Columbia,99,all|cpd|police
+25695,,Cola College PD,D,Columbia College PD,Schools,Richland County,99,all
+25854,,FOREST ACRES PD,D,Forest Acres PD Dispatch,Law Dispatch,Richland County,99,all
+26001,,Sumter PD 1,D,Sumter PD Dispatch,Law Dispatch,Sumter County,99,all
+26002,,Sumter PD 2,DE,Sumter PD 2,Law Tac,Sumter County,99,all
+26003,,Sumter PD 3,D,Sumter PD 3 TAC 1,Law Tac,Sumter County,99,all
+26004,,Sumter PD 4,D,Sumter PD Special Events,Law Tac,Sumter County,99,all
+26051,,Sumter SD 1,D,SD Dispatch,Law Dispatch,Sumter County,99,all
+26052,,Sumter SD 2,DE,SD 2,Law Tac,Sumter County,99,all
+26053,,Sumter SD Traff,D,SD TrafficCAT,Law Tac,Sumter County,99,all
+26054,,Sumter SD 4,D,SD 4 Talk,Law Talk,Sumter County,99,all
+26057,,Sumter SD,DE,SD Unknown,Law Tac,Sumter County,99,all
+26058,,Sumter SD,DE,Sheriff Unknown,Law Tac,Sumter County,99,all
+26101,,SumterCo FD1,D,FD Dispatch,Fire Dispatch,Sumter County,99,all
+26102,,SumterCo FGA,D,FD Fireground A,Fire-Tac,Sumter County,99,all
+26103,,SumterCo FG,D,FD Fireground,Fire-Tac,Sumter County,99,all
+26104,,SumterCo FGB,D,FD Fireground B,Fire-Tac,Sumter County,99,all
+26105,,SumterCo FGC,D,FD Fireground C,Fire-Tac,Sumter County,99,all
+26106,,SumterCo FGD,D,FD Fireground D,Fire-Tac,Sumter County,99,all
+26107,,SumterCo FGE,D,FD Fireground E,Fire-Tac,Sumter County,99,all
+26108,,SumterCo FD,D,FD Training,Fire-Tac,Sumter County,99,all
+26109,,SumterCo FD,DE,FD Admin,Fire-Tac,Sumter County,99,all
+26111,,Sumter AG,D,Air to Ground,Multi-Tac,Sumter County,99,all
+26151,,SumterCo EMS,D,EMS Dispatch,EMS Dispatch,Sumter County,99,all
+26152,,SumterCo EMS,D,EMS 2 Talk,EMS-Talk,Sumter County,99,all
+26153,,EMS Toumey,D,EMS TO Toumey Hospital,Hospital,Sumter County,99,all
+26207,,SUM EMS HOSP,D,EMS to Hospital,Hospital,Sumter County,99,all
+27050,,Moto Service,D,Service,Other,Motorola,99,all
+27068,,Moto Service,D,Service,Other,Motorola,99,all
+27101,,SCHP SmtrClrd,D,Ch 1 SumterClarendon Dispatch,Law Dispatch,SCHP Troop 1,99,all
+27102,,SCHP Tac 1,D,Ch 2 Tac 1,Law Tac,SCHP Troop 1,99,all
+27103,,SCHP LeeKrshw,D,Ch 3 KershawLee Dispatch,Law Dispatch,SCHP Troop 1,99,all
+27104,,SCHP Lexington,D,Ch 4 Lexington Dispatch,Law Dispatch,SCHP Troop 1,99,all
+27105,,SCHP Tac 2,D,Ch 5 Tac 2,Law Tac,SCHP Troop 1,99,all
+27106,,SCHP Richland,D,Ch 6 Richland Dispatch,Law Dispatch,SCHP Troop 1,50,broadcastify|allfiltered|schp|all|police
+27108,,DPS 1,D,Ch 8 DPS 1,Public Works,SCHP Troop 1,99,all
+27109,,SCHP Sp Ops 1,D,Ch 9 Special Ops Troop 1,Law Tac,SCHP Troop 1,99,all
+27111,,SCHP Aiken Disp,D,Ch 97 Aiken Dispatch,Law Dispatch,SCHP Troop 7,99,all
+27112,,SCHP Tac 13,D,Ch 98 Tac 13,Law Tac,SCHP Troop 7,99,all
+27113,,SCHP Oburg Disp,D,Ch 99 OrangeburgCalhoun Dispatch,Law Dispatch,SCHP Troop 7,99,all
+27114,,SCHP Tac 14,D,Ch 101 Tac 14,Law Tac,SCHP Troop 7,99,all
+27115,,SCTP Tr 7,D,Ch 103 Transport Police Troop 7,Law Tac,SCHP Troop 7,99,all
+27116,,DPS 7,D,Ch 104 DPS 7,Public Works,SCHP Troop 7,99,all
+27117,,SCHP Sp Ops 7,D,Ch 105 Special Ops Troop 7,Law Tac,SCHP Troop 7,99,all
+27118,,SCHP BmbBrn Disp,D,Ch  BambergBarnwellAllendaleHampton Dispatch,Law Dispatch,SCHP Troop 7,99,all
+27121,,SC BPS Disp,D,BPS Dispatch,Law Dispatch,SC BPS Bureau Of Protective Services,99,all
+27123,,SC BPS 1,D,BPS 1,Law Tac,SC BPS Bureau Of Protective Services,99,all
+27124,,SC BPS 2,D,BPS 2,Law Tac,SC BPS Bureau Of Protective Services,99,all
+27125,,SC BPS Statewide,D,BPS Statewide,Law Tac,SC BPS Bureau Of Protective Services,99,all
+27134,,SCHP Memo,D,Insurance Enforcement Unit memo units,Law Talk,SCHP Statewide,99,all
+27301,,SLED Ops 2,DE,Ops 2,Law Tac,SLED State Law Enforcement Division,99,all
+27302,,SLED Ops 1,D,Ops 1,Law Tac,SLED State Law Enforcement Division,99,all
+27307,,SLED Enc,DE,ENC,Law Tac,SLED State Law Enforcement Division,99,all
+27311,,SLED Midlands,D,Midlands,Law Tac,SLED State Law Enforcement Division,99,all
+27312,,SLED Statewide,D,Statewide,Law Tac,SLED State Law Enforcement Division,99,all
+27406,,SC DNR Reg 3,D,Region 3,Law Tac,SC DNR,99,all
+27407,,SC DNR Roam,D,Roam,Law Tac,SC DNR,99,all
+27501,,SC DHEC Reg 2,D,Region 2,Emergency Ops,SC DHEC,99,all
+27502,,SC DHEC MA,D,Mutual Aid,Emergency Ops,SC DHEC,99,all
+27505,,SC DHEC Hosp,D,Hospital Net Main,Hospital,SC DHEC,99,all
+27506,,SC DHEC Hosp Rg2,D,Hospital Region 2,Hospital,SC DHEC,99,all
+27507,,SC DHEC Main,D,Main,Emergency Ops,SC DHEC,99,all
+27510,,SC DHEC ERT,D,Emergency Response Team,Emergency Ops,SC DHEC,99,all
+27601,,SC DJJ,D,SC DJJ,Corrections,SC DJJ,99,all
+27603,,SC DJJ,D,SC DJJ,Corrections,SC DJJ,99,all
+27605,,SC DJJ,D,SC DJJ,Corrections,SC DJJ,99,all
+27711,,SC PPP Lexington,D,Lexington,Law Tac,SC PPP,99,all
+27712,,SC PPP Richland,D,Richland,Law Tac,SC PPP,99,all
+27714,,SC PPP Roam,D,Roam,Law Tac,SC PPP,99,all
+27827,,SC Forestry,D,800MHz Dispatch ,Public Works,SC Forestry,99,all
+27871,,SC Nat Guard,D,Guard Ops,Military,SC National Guard,99,all
+27882,,USC PD,DE,USC Police,Law Dispatch,University of South Carolina,99,all
+27883,,USC PD,DE,USC Police,Law Dispatch,University of South Carolina,99,all
+27884,,USC PD,DE,USC Police,Law Dispatch,University of South Carolina,99,all
+27885,,USC PD,DE,USC Police,Law Dispatch,University of South Carolina,99,all
+27886,,USC PD,DE,USC Police,Law Dispatch,University of South Carolina,99,all
+27901,,SC DMH PD Disp,D,Police Ch1 Dispatch,Law Dispatch,SC DMH,99,all
+27902,,SC DMH PD 2,D,Police Ch2,Law Talk,SC DMH,99,all
+28002,,SC DOT Radio,D,Radio Shop Statewide,Public Works,SC DOT,99,all
+28003,,SHEP D1,D,SC DOT SHEP District 1,Public Works,SCHP Troop 1,99,all
+28101,,SC EMD Call,D,Call,Emergency Ops,SC EMD,99,all
+28102,,SC EMD Ops 1,D,Ops 1,Emergency Ops,SC EMD,99,all
+28103,,SC EMD Ops 3,D,Ops 3,Emergency Ops,SC EMD,99,all
+28104,,SC EMD Common,D,Common,Emergency Ops,SC EMD,99,all
+28106,,SC EMD Midlands,D,Midlands,Emergency Ops,SC EMD,99,all
+28112,,SC EMD Sav River,D,Savannah River,Emergency Ops,SC EMD,99,all
+28512,,SanteeWater RTA,D,SanteeWateree Regional Transit Authority,Transportation,Transportation,99,all
+28601,,Medshore Midlnds,D,Medshore Ambulance Midlands Area,EMS-Tac,Ambulance Services,99,all
+28606,,LifeNet to Hosp,D,LifeNet to Palmetto Richland ER,Hospital,SC Medical Helicopters,99,all
+28609,,SC Lifenet,D,LifeNet,EMS Dispatch,SC Medical Helicopters,99,all
+32065,,Hampton Co FD,D,Fire Dispatch,Fire Dispatch,Hampton County,99,all
+32143,,Hampton Co LE,D,Law Enforcement Dispatch,Law Dispatch,Hampton County,99,all
+40005,,SC Air 3,D,SC Air 3,Emergency Ops,SC Interoperability,99,all
+40010,,SC Reg Govt 2,D,Regional Govt 2,Interop,SC Interoperability,99,all
+40011,,SC Reg Govt 3,D,Regional Govt 3,Interop,SC Interoperability,99,all
+40012,,SC Reg Govt 4,D,Regional Govt 4,Interop,SC Interoperability,99,all
+40013,,SC LE Comm 2,D,LE Common 2,Law Tac,SC Interoperability,99,all
+40014,,SC LE Comm 3,D,LE Common 3,Law Tac,SC Interoperability,99,all
+40015,,SC LE Comm 4,D,LE Common 4,Law Tac,SC Interoperability,99,all
+40504,,Abbeville SD,D,Abbeville SD,Law Dispatch,Abbeville County,99,all
+40572,,Abbvl EMS,D,EMS,EMS Dispatch,Abbeville County,99,all
+40882,,Abbvl EMS Hosp,D,EMS to Hospital,Hospital,Abbeville County,99,all
+41000,,AndCo SD Dis,D,Sheriff Ch 1 Dispatch,Law Dispatch,Anderson County,99,all
+41001,,AndCo SD Trf,D,Sheriff Ch 2 Traffic Enforcement,Law Tac,Anderson County,99,all
+41002,,AndCo SD Tlk,D,Sheriff Ch 3 Talkaround,Law Talk,Anderson County,99,all
+41003,,AndCo SD 4,D,Sheriff Ch 4 Traffic Channel,Law Tac,Anderson County,99,all
+41004,,AndCo SD 5,DE,Sheriff Ch 5,Law Tac,Anderson County,99,all
+41006,,AndCo FD Dis,D,Fire Dispatch,Fire-Tac,Anderson County,99,all
+41007,,AndCo FD,D,Fire Unknown Use,Fire-Tac,Anderson County,99,all
+41008,,AndCo SD Crt,D,Court Security,Law Tac,Anderson County,99,all
+41011,,Belton PD Tac,D,Belton PD Tac,Law Tac,Anderson County,99,all
+41013,,AndCo FD Haz,D,Fire HAZMAT,Fire-Tac,Anderson County,99,all
+41014,,And FD Disp,D,Anderson FD Dispatch,Fire Dispatch,Anderson County,99,all
+41019,,And PD Disp,D,Anderson PD Ch 1,Law Dispatch,Anderson County,99,all
+41020,,And PD Tac,D,Anderson PD Ch 2 Tactical,Law Tac,Anderson County,99,all
+41023,,And Muni PDs,D,Municipal PDs Belton Honeapath Pendleton Williamson,Law Tac,Anderson County,99,all
+41027,,AndCo Em Svc,DE,Emergency Services,Emergency Ops,Anderson County,99,all
+41029,,AndCo LE Unk,DE,Unknown Law Enforcement,Law Tac,Anderson County,99,all
+41030,,AndCo EMS Ds,D,EMS Dispatch,EMS Dispatch,Anderson County,99,all
+41031,,AndCo EMS,D,EMSAnMed Lifeflight,EMS-Tac,Anderson County,99,all
+41032,,AndCo SD Roam,D,Sheriff Roam,Law Tac,Anderson County,99,all
+41033,,AndCo Sp Op1,D,Special Ops 1,Emergency Ops,Anderson County,99,all
+41034,,AndCo Sp Op2,D,Special Ops 2,Emergency Ops,Anderson County,99,all
+41035,,AndCo SD Evt 1,D,Sheriff Special Events 1,Law Tac,Anderson County,99,all
+41036,,AndCo SD Evt 2,D,Sheriff Special Events 2,Law Tac,Anderson County,99,all
+41037,,AndCo SD Evt 3,D,Sheriff Special Events 3,Law Tac,Anderson County,99,all
+41042,,EMS2AnMed,D,EMS to Anderson Medical Center,Hospital,Anderson County,99,all
+41043,,AndCo Mun FD,D,Municipal FDs Belton Honea Path Williamston FDs,Fire-Tac,Anderson County,99,all
+42001,,Chester SO Disp,D,Sheriff Dispatch,Law Dispatch,Chester County,99,all
+42002,,Chester SD Tac 1,D,Sheriff Tac 1,Law Tac,Chester County,99,all
+42003,,Chester SD Tac 2,D,Sheriff Tac 2,Law Tac,Chester County,99,all
+42116,,Chester EmergMgt,D,Emergency Management,Emergency Ops,Chester County,99,all
+42351,,Chester PD Disp,D,Chester PD Dispatch,Law Dispatch,Chester County,99,all
+42501,,Chstfld Co SD 1,D,Sheriff 1,Law Tac,Chesterfield County,99,all
+42502,,Chstfld Co SD 2,D,Sheriff 2,Law Tac,Chesterfield County,99,all
+43501,,Fairfld Co SD 1,D,Sheriff 1,Law Tac,Fairfield County,99,all
+43502,,Fairfld Co SD 2,D,Sheriff 2,Law Tac,Fairfield County,99,all
+43851,,Winnsboro DPS,D,Winnsboro Dept of Public Safety Dispatch,Law Dispatch,Fairfield County,99,all
+44001,,Grvl SD SROs,D,Sheriff School Resource Officers,Law Tac,Greenville County,99,all
+44004,,Grvl SD Tac,De,Sheriff Tac,Law Tac,Greenville County,99,all
+44005,,Grvl SD Tac,DE,Sheriff Tac,Law Tac,Greenville County,99,all
+44006,,Grvl SD Tac,DE,Sheriff Tac,Law Tac,Greenville County,99,all
+44007,,Grvl SD Tac,DE,Sheriff Tac,Law Tac,Greenville County,99,all
+44008,,Grvl SD Tac,DE,Sheriff Tac,Law Tac,Greenville County,99,all
+44009,,Grvl SD Tac,DE,Sheriff Tac,Law Tac,Greenville County,99,all
+44041,,Grvl Co FD Chief,D,County Fire Chiefs,Fire-Tac,Greenville County,99,all
+44115,,Grvl FD Tac 2,D,Fire Tac 2,Fire-Tac,Greenville County,99,all
+44118,,Grvl Animal Cntl,D,Animal Control,Public Works,Greenville County,99,all
+44157,,Greenlink,D,Greenlink Greenville Buses,Transportation,Greenville County,99,all
+44158,,Grvl GAP,D,Greenville Area Paratransit,Transportation,Greenville County,99,all
+44250,,Grvl Tech Sec,D,Greenville Technical College Security,Security,Greenville County,99,all
+44256,,River Falls FD,D,River Falls FD,Fire-Tac,Greenville County,99,all
+44351,,GFD Dispatch 1,D,Greenville FD Dispatch 1,Fire Dispatch,Greenville County,99,all
+44352,,GFD DIspatch 2,D,Greenville FD Dispatch 2,Fire Dispatch,Greenville County,99,all
+44353,,GFD Command 1,D,Greenville FD Command 1,Fire-Tac,Greenville County,99,all
+44356,,GPD Traffic,D,Greenville City PD Traffic,Law Tac,Greenville County,99,all
+44357,,GPD Event,D,Greenville City PD TacEvent,Law Tac,Greenville County,99,all
+44358,,GPD Dispatch,D,Greenville City PD Dispatch,Law Dispatch,Greenville County,99,all
+44359,,GPD Records,D,Greenville City PD Records,Law Tac,Greenville County,99,all
+44360,,GPD Admin,D,Greenville City PD Admin,Law Tac,Greenville County,99,all
+44361,,GPD,D,Greenville PD,Law Tac,Greenville County,99,all
+44381,,Greer PD,D,Greer PD Dispatch,Law Dispatch,Greenville County,99,all
+44385,,Greer FD,D,Greer FD,Fire-Tac,Greenville County,99,all
+44441,,Simpsnvl PD 1,D,Simpsonville PD 1,Law Dispatch,Greenville County,99,all
+44442,,Simpsnvl PD 2,D,Simpsonville PD 2,Law Tac,Greenville County,99,all
+44443,,Simpsnvl PD 3,D,Simpsonville PD 3,Law Tac,Greenville County,99,all
+44455,,Trav Rest PD,D,Travelers Rest PD,Law Dispatch,Greenville County,99,all
+44501,,Grnwd Co SD 1,D,Sheriff Ch 1,Law Dispatch,Greenwood County,99,all
+44502,,Grnwd Co SD 2,D,Sheriff Ch 2,Law Tac,Greenwood County,99,all
+44541,,Grnwd Co FD 1,D,Fire Ch 1,Fire-Tac,Greenwood County,99,all
+44542,,Grnwd Co FD 2,D,Fire Ch 2,Fire-Tac,Greenwood County,99,all
+44543,,Grnwd Co FD 3,D,Fire Ch 3,Fire-Tac,Greenwood County,99,all
+44565,,Grnwd EMS Disp,D,EMS Dispatch,EMS Dispatch,Greenwood County,99,all
+44581,,Self Hosp ER,D,EMS to Self Regional ER,Hospital,Greenwood County,99,all
+44673,,Lander Univ,D,Lander University Maintenance,Business,Greenwood County,99,all
+44851,,Greenwood PD,D,Greenwood PD,Law Dispatch,Greenwood County,99,all
+45005,,LC Air Ops,D,Air Ops,Emergency Ops,Lancaster County,99,all
+45006,,LC Event 1,D,Event 1,Multi-Tac,Lancaster County,99,all
+45007,,LC Event 2,D,Event 2,Multi-Tac,Lancaster County,99,all
+45010,,LC Emergency,D,Emergency,Emergency Ops,Lancaster County,99,all
+45011,,LC Roam,D,Roam,Multi-Tac,Lancaster County,99,all
+45050,,LC Sheriff Disp,DE,Sheriff Dispatch,Law Dispatch,Lancaster County,99,all
+45101,,LC FDEMS Disp,D,FireEMS Dispatch,Multi-Dispatch,Lancaster County,99,all
+45102,,LC FDEMS Ops 2,D,FireEMS Ops 2,Fire-Tac,Lancaster County,99,all
+45103,,LC FDEMS Ops 3,D,FireEMS Ops 3,Fire-Tac,Lancaster County,99,all
+45104,,LC FDEMS Ops 4,D,FireEMS Ops 4,Fire-Tac,Lancaster County,99,all
+45105,,LC FDEMS Ops 5,D,FireEMS Ops 5,Fire-Tac,Lancaster County,99,all
+45106,,LC FDEMS Ops 6,DE,FireEMS Ops 6,Fire-Tac,Lancaster County,99,all
+45107,,LC FDEMS Ops 7,DE,FireEMS Ops 7,Fire-Tac,Lancaster County,99,all
+45108,,LC FDEMS Ops 8,DE,FireEMS Ops 8,Fire-Tac,Lancaster County,99,all
+45109,,LC FDEMS Ops 9,DE,FireEMS Ops 9,Fire-Tac,Lancaster County,99,all
+45110,,LC FDEMS Ops 10,DE,FireEMS Ops 10,Fire-Tac,Lancaster County,99,all
+45112,,LC FDEMS Tac 2,D,FireEMS Tac 2,Fire-Tac,Lancaster County,99,all
+45113,,LC FDEMS Tac 3,D,FireEMS Tac 3,Fire-Tac,Lancaster County,99,all
+45114,,LC FDEMS Tac 4,D,FireEMS Tac 4,Fire-Tac,Lancaster County,99,all
+45115,,LC FDEMS Tac 5,D,FireEMS Tac 5,Fire-Tac,Lancaster County,99,all
+45116,,LC FDEMS Tac 6,D,FireEMS Tac 6,Fire-Tac,Lancaster County,99,all
+45117,,LC FDEMS Tac 7,D,FireEMS Tac 7,Fire-Tac,Lancaster County,99,all
+45118,,LC FDEMS Tac 8,D,FireEMS Tac 8,Fire-Tac,Lancaster County,99,all
+45119,,LC FDEMS Tac 9,D,FireEMS Tac 9,Fire-Tac,Lancaster County,99,all
+45150,,Lanc PD Disp,DE,Lancaster City PD,Law Dispatch,Lancaster County,99,all
+45501,,Laurens SD Disp,D,Sheriff Dispatch,Law Dispatch,Laurens County,99,all
+45565,,Laurens EMS Disp,D,EMS Dispatch,EMS Dispatch,Laurens County,99,all
+45682,,Laurens Elec,D,Laurens Electric Cooperative,Utilities,Laurens County,99,all
+45851,,Clinton PD,D,Clinton PD Dispatch,Law Dispatch,Laurens County,99,all
+45881,,Laurens PD Disp,D,Laurens PD Dispatch,Law Dispatch,Laurens County,99,all
+46501,,Newbry SD 1,D,Sheriff 1,Law Tac,Newberry County,99,all
+46502,,Newbry SD 2,D,Sheriff 2,Law Tac,Newberry County,99,all
+46541,,Newbry Co FD Dis,D,County Fire,Fire Dispatch,Newberry County,99,all
+46565,,Newbry EMS Disp,D,EMS,EMS Dispatch,Newberry County,99,all
+46851,,Newberry PD,D,Newberry PD,Law Dispatch,Newberry County,99,all
+47501,,PC Sheriff 1,D,Sheriff,Law Dispatch,Pickens County,99,all
+47541,,PC Fire,D,Fire,EMS Dispatch,Pickens County,99,all
+47565,,PC EMS,D,EMS,EMS Dispatch,Pickens County,99,all
+47615,,PC EMER MGT,D,Emergency Management,Emergency Ops,Pickens County,99,all
+47641,,PC All Call,D,All Call ,Emergency Ops,Pickens County,99,all
+47666,,Clemson U FD EMS,D,Clemson University FD EMS,EMS Dispatch,Pickens County,99,all
+47881,,Easley FD,D,Easley Fire,EMS Dispatch,Pickens County,99,all
+47883,,Easley PD,D,Easley Police,Law Dispatch,Pickens County,99,all
+47897,,Liberty PD,D,Liberty Police,Law Dispatch,Pickens County,99,all
+48501,,Sptg SD Disp,D,Sheriff Ch 1 Dispatch,Law Dispatch,Spartanburg County,99,all
+48502,,Sptg SD Ch 2 Trf,D,Sheriff Ch 2 TrafficSchool Resource,Law Tac,Spartanburg County,99,all
+48506,,Sptg SD Ch 4 Tac,D,Sheriff Ch 4 Tac,Law Tac,Spartanburg County,99,all
+48507,,Sptg SD Ch 6,D,Sheriff Ch 6,Law Tac,Spartanburg County,99,all
+48510,,Sptg SD Ch 3 Tlk,D,Sheriff Ch 3 Talkaround,Law Talk,Spartanburg County,99,all
+48521,,Sptg Towns 1,D,Town PDs DIspatch,Law Dispatch,Spartanburg County,99,all
+48522,,Sptg Towns 2,D,Town PDs Tac,Law Tac,Spartanburg County,99,all
+48523,,Sptg Towns 3,D,Town PDs Talkaround,Law Talk,Spartanburg County,99,all
+48565,,SEMS Dispatch,D,EMS DIspatch,EMS Dispatch,Spartanburg County,99,all
+48566,,SEMS Disp 2,D,EMS Dispatch 2,EMS-Tac,Spartanburg County,99,all
+48569,,SEMS Ops,D,EMS Operations,EMS-Tac,Spartanburg County,99,all
+48573,,SEMS SRMC ER,D,Spartanburg Regional Medical Center ER,Hospital,Spartanburg County,99,all
+48577,,SEMS Greer ER,D,Greer Hospital ER,Hospital,Spartanburg County,99,all
+48578,,Cowpens PD,D,Cowpens PD Talkaround,Law Talk,Spartanburg County,99,all
+48580,,SRMC Sec 1,D,Spartanburg Regional Med Center Security,Security,Spartanburg County,99,all
+48583,,SEMS MrBl ER,D,Mary Black ER,Hospital,Spartanburg County,99,all
+48584,,SEMS PMC ER,D,Pelham Medical Center ER,Hospital,Spartanburg County,99,all
+48642,,Regional 1,D,Regional 1Sptg AirGnd,Emergency Ops,Spartanburg County,99,all
+48643,,Sptg HazMat,D,HazMat,Emergency Ops,Spartanburg County,99,all
+48644,,Sptg SD Ch 5 Wrt,D,Sheriff Ch 5 WarrantsInvestigations,Law Tac,Spartanburg County,99,all
+48653,,Sptg Co Jail,D,Jail,Corrections,Spartanburg County,99,all
+48654,,Sptg Jail,D,Jail,Corrections,Spartanburg County,99,all
+48851,,Campobello PD,D,Campobello PD Talkaround,Law Talk,Spartanburg County,99,all
+48881,,Duncan PD,D,Duncan PD Talkaround,Law Talk,Spartanburg County,99,all
+49001,,Union Co SD,D,Sheriff Tac,Law Tac,Union County,99,all
+50103,,RADIO MNTC,D,Radio Maintenance,Public Works,Charleston County,99,all
+50201,,SCHP LrnsNewb,D,Ch 17 NewberryLaurens Dispatch,Law Dispatch,SCHP Troop 2,99,all
+50202,,SCHP Tac 3,D,Ch 18 Tac 3,Law Tac,SCHP Troop 2,99,all
+50203,,SCHP AbbGrwd,D,Ch 19 AbbevilleGreenwood Dispatch,Law Dispatch,SCHP Troop 2,99,all
+50204,,SCHP EgfSldMck,D,Ch 20 EdgefieldSaludaMcCormick Dispatch,Law Dispatch,SCHP Troop 2,99,all
+50205,,SCHP Tac 4,D,Ch 21 Tac 4,Law Tac,SCHP Troop 2,99,all
+50206,,SCTP T2,D,Ch 23 Transport Police Troop 2,Law Tac,SCHP Troop 2,99,all
+50207,,DPS 2,D,Ch 24 DPS 2,Public Works,SCHP Troop 2,99,all
+50208,,SCHP Sp Ops 2,D,Ch 25 Special Ops Troop 2,Law Tac,SCHP Troop 2,99,all
+50211,,SCHP Anderson,D,Ch 33 Anderson,Law Dispatch,SCHP Troop 3,99,all
+50212,,SCHP Tac 5,D,Ch 34 Tac 5,Law Tac,SCHP Troop 3,99,all
+50213,,SCHP Grnvl,D,Ch 36 Greenville,Law Dispatch,SCHP Troop 3,99,all
+50214,,SCHP Tac 6,D,Ch 37 Tac 6,Law Tac,SCHP Troop 3,99,all
+50215,,SCHP Sptg,D,Ch 38 Spartanburg,Law Dispatch,SCHP Troop 3,99,all
+50216,,SCTP T3,D,Ch 39 Transport Police Troop 3,Law Tac,SCHP Troop 3,99,all
+50217,,DPS 3,D,Ch 40 DPS 3,Public Works,SCHP Troop 3,99,all
+50218,,SCHP Sp Ops 3,D,Ch 41 Special Ops Troop 3,Law Tac,SCHP Troop 3,99,all
+50221,,SCHP CherUn,D,Ch 49 CherokeeUnion,Law Dispatch,SCHP Troop 4,99,all
+50222,,SCHP Tac 7,D,Ch 50 Tac 7,Law Tac,SCHP Troop 4,99,all
+50223,,SCHP York,D,Ch 51 York,Law Dispatch,SCHP Troop 4,99,all
+50224,,SCHP Tac 8,D,Ch 53 Tac 8,Law Tac,SCHP Troop 4,99,all
+50225,,SCTP T4,D,Ch 55 Transport Police Troop 4,Law Tac,SCHP Troop 4,99,all
+50226,,DPS 4,D,Ch 56 DPS 4,Public Works,SCHP Troop 4,99,all
+50227,,SCHP Sp Ops 4,D,Ch 57 Special Ops Ttroop 4,Law Tac,SCHP Troop 4,99,all
+50231,,SCHP ChstFrfd,D,Ch 52 ChesterFairfield,Law Dispatch,SCHP Troop 4,99,all
+50232,,SCHP ChsfLanc,D,Ch 54 ChesterfieldLancaster,Law Dispatch,SCHP Troop 4,99,all
+50233,,SCHP PcknsOcnee,D,Ch 35 PickensOconee,Law Dispatch,SCHP Troop 3,99,all
+50401,,SLED Piedmont,D,Piedmont,Law Tac,SLED State Law Enforcement Division,99,all
+50502,,SC DNR Reg 1,D,Region 1,Law Tac,SC DNR,99,all
+50503,,SC DNR Reg 2,D,Region 2,Law Tac,SC DNR,99,all
+50601,,SC DHEC Reg 1,D,Region 1,Emergency Ops,SC DHEC,99,all
+50603,,SC DHEC Hosp Rg1,D,Hospital Region 1 Upstate,Hospital,SC DHEC,99,all
+50710,,SC DJJ,D,SC DJJ,Corrections,SC DJJ,99,all
+50807,,SC PPP Upstate,D,Upstate Area,Law Tac,SC PPP,99,all
+50991,,USCUpstate PD,D,USCUpstate PD,Law Dispatch,Spartanburg County,99,all
+51000,,Harris Hosp,D,Patrick B Harris Hospital Security,Security,Anderson County,99,all
+51101,,SCHP D2,D,SC DOT SHEP District 2,Public Works,SCHP Troop 2,99,all
+51104,,SHEP D3,D,SC DOT SHEP District 3,Public Works,SCHP Troop 3,99,all
+51105,,SHEP D4,D,SC DOT SHEP District 4,Public Works,SCHP Troop 4,99,all
+51205,,SC EMD Upstate,D,Upstate,Emergency Ops,SC EMD,99,all
+51206,,SC EMD Piedmont,D,Piedmont,Emergency Ops,SC EMD,99,all
+51207,,SC EMD Catawba,D,Catawba,Emergency Ops,SC EMD,99,all
+51701,,AnMed Helo,D,AnMed Lifeflight Helicopter,EMS-Tac,Anderson County,99,all
+51702,,Medshore EMS,D,Medshore EMS,EMS Dispatch,Anderson County,99,all
+51703,,SC AirReach,D,AirReach,EMS Dispatch,SC Medical Helicopters,99,all
+51704,,MedTrans SC,D,MedTrans Roam SC  AircareAirReachRegional 1GHS MedTransAnMed LifeFlight,EMS Dispatch,SC Medical Helicopters,99,all
+51705,,MedCenterAir,D,MedCenter Air CMC Charlotte,EMS Dispatch,SC Medical Helicopters,99,all
+51707,,Logisticare EMS,D,Logisticare EMS,EMS Dispatch,Ambulance Services,99,all
+51708,,Lifeflight,D,Lifeflight,EMS Dispatch,SC Medical Helicopters,99,all
+51709,,Careflight,D,Careflight EMS Dispatch,EMS Dispatch,SC Medical Helicopters,99,all
+51711,,Medshore Amb,D,Medshore Ambulance,EMS-Tac,Ambulance Services,99,all
+51712,,GHS MedTrans,D,GHS MedTrans Dispatch,Emergency Ops,Greenville County,99,all
+55201,,RCSD N Disp,D,Sheriff North Dispatch,Law Dispatch,AugustaRichmond County,99,all
+55202,,RCSD N Recs,D,Sheriff North Records,Law Tac,AugustaRichmond County,99,all
+55203,,RCSD N Tac,D,Sheriff North Tac,Law Tac,AugustaRichmond County,99,all
+55206,,RCSD S DIsp,D,Sheriff South Dispatch,Law Dispatch,AugustaRichmond County,99,all
+55207,,RCSD S Recs,D,Sheriff South Records,Law Tac,AugustaRichmond County,99,all
+55208,,RCSD S Tac,D,Sheriff South Tac,Law Tac,AugustaRichmond County,99,all
+55218,,RCSD Traffic,D,Sheriff Traffic,Law Tac,AugustaRichmond County,99,all
+55220,,RCSD Bus Disp,D,Sheriff Business District Dispatch,Law Dispatch,AugustaRichmond County,99,all
+55223,,RCSD Event 1,D,Sheriff Event 1,Law Tac,AugustaRichmond County,99,all
+55224,,RCSD Event 2,D,Sheriff Event 2,Law Tac,AugustaRichmond County,99,all
+55225,,RCSD Event 3,D,Sheriff Event 3,Law Tac,AugustaRichmond County,99,all
+55228,,RC Marshal Disp,D,Marshal Department Dispatch Ch 1,Law Dispatch,AugustaRichmond County,99,all
+55229,,RC Engineering,D,EngineeringTraffic Light,Public Works,AugustaRichmond County,99,all
+55237,,RCSD Sp Ops,D,Sheriff Special Ops,Law Tac,AugustaRichmond County,99,all
+55238,,RCSD Bus Tac,D,Sheriff Business Tac,Law Tac,AugustaRichmond County,99,all
+55241,,RCFD Tac 1,D,Fire Tac 1,Fire-Tac,AugustaRichmond County,99,all
+55242,,RCFD Tac 2,D,Fire Tac 2,Fire-Tac,AugustaRichmond County,99,all
+55243,,RCFD Tac 3,D,Fire Tac 3,Fire-Tac,AugustaRichmond County,99,all
+55244,,RCFD Tac 4,D,Fire Tac 4,Fire-Tac,AugustaRichmond County,99,all
+55247,,RCFD Alert,D,Fire Alert Channel,Fire Dispatch,AugustaRichmond County,99,all
+55265,,RCFD EMS Tac 1,D,Fire EMS Tac 1,Fire-Tac,AugustaRichmond County,99,all
+55266,,RCFD EMS Tac2,D,Fire EMS Tac 2,Fire-Tac,AugustaRichmond County,99,all
+55292,,RC Animal Cntl,D,Animal Control,Public Works,AugustaRichmond County,99,all
+55293,,RC Water Dept,D,Water Department ,Public Works,AugustaRichmond County,99,all
+55297,,RC Corr Inst,D,Richmond Co Correctional Institute,Law Tac,AugustaRichmond County,99,all
+55299,,RC Corr Inst Wrk,D,Richmond Co Correctional Institute Work Detail,Law Tac,AugustaRichmond County,99,all
+55301,,RC Transit,D,Transit Bus,Transportation,AugustaRichmond County,99,all
+55303,,RC DPW,D,Public Works,Public Works,AugustaRichmond County,99,all
+55304,,RC Water Meter,D,Water Department Meter Readers,Public Works,AugustaRichmond County,99,all
+55341,,RC Court Sec,D,Marshal Department Court Security,Law Tac,AugustaRichmond County,99,all
+55342,,RC Apt Grnd Ptl,D,Marshal Department Bush Field Airport Grounds Patrol,Law Tac,AugustaRichmond County,99,all
+55345,,RC Marshal Tac,D,Marshal Department TAC,Law Tac,AugustaRichmond County,99,all
+55349,,RC BOE,D,Board of Education Public Safety,Schools,AugustaRichmond County,99,all
+55373,,Augusta Univ,D,Augusta University PD Dispatch,Law Dispatch,AugustaRichmond County,99,all
+60001,,Cedar Mtn FR,D,Cedar Mountain Fire Rescue Tac 12 P,Fire-Tac,Greenville County,99,all
+60002,,Cedar Mtn FR,D,Cedar Mountain Fire Rescue Tac 12 M,Fire-Tac,Greenville County,99,all
+60003,,Cedar Mtn FR,D,Cedar Mountain Fire Rescue Tac 12 Roam,Fire-Tac,Greenville County,99,all
