@@ -8,14 +8,14 @@ from subprocess import PIPE, run
 
 import logging
 
-logger = logging.getLogger('streamthis')
-logger.setLevel(logging.DEBUG)
+logger = logging.getLogger('streamthis:')
+logger.setLevel(logging.os.environ['ENCODING_LOGGING_LEVEL'])
 handler = logging.StreamHandler(sys.stdout)
 formatter = logging.Formatter('streamthis: %(message)s')
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
-CSV_FILE="/app/config/talk_groups.csv"
+CSV_FILE="/home/radio/trunk-player/config/talk_groups.csv"
 FILE_TO_ENCODE=sys.argv[1]
 logger.debug("file to encode: %s", FILE_TO_ENCODE)
 
@@ -56,13 +56,6 @@ if (STREAM_LIST.strip() == ''):
 
 call(["/usr/bin/lame", "--quiet", "-m", "m", "-b", "16", "--resample", "8", "--tt", "{0}".format(ALPHA), FILE_TO_ENCODE])
 
-
-#shutil.copy2(MP3_FILE, '/opt/player/audio_files/')
-#shutil.copy2(JSON_FILE, '/opt/player/audio_files/')
-
-#os.chdir('/opt/player/')
-#call(["/usr/bin/python3", "/opt/player/manage.py", "add_transmission", FILENAME])
-
 if os.path.exists(FILE_TO_ENCODE):
     os.remove(FILE_TO_ENCODE)
 
@@ -71,9 +64,17 @@ servers = []
 
 for stream in streams:
     logger.debug(">>>>> %s, %s is in the list", stream.rstrip(), TALKGROUP)
-    stream_address = "/var/run/liquidsoap/{0}".format(stream)
-    logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream.rstrip(), stream_address)
-    servers.append(stream_address.rstrip())
+    if (stream.rstrip() == 'player'):
+        if os.environ.get('START_TRUNK_PLAYER')=='true':
+            if os.environ.get('LOCAL_AUDIO_FILES')=='true':
+                shutil.copy2(MP3_FILE, '/home/radio/trunk-player/audio_files/')
+                shutil.copy2(JSON_FILE, '/home/radio/trunk-player/audio_files/')
+                os.chdir('/home/radio/trunk-player/')
+                call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", FILENAME])
+    else:
+        stream_address = "/var/run/liquidsoap/{0}".format(stream)
+        logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream.rstrip(), stream_address)
+        servers.append(stream_address.rstrip())
 
 if len(servers) < 1:
     logger.error("Talkgroup [%s] did not have any streams in the list: %s", TALKGROUP, STREAM_LIST)

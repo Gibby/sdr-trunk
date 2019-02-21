@@ -1,4 +1,11 @@
-version: '3.1'
+version: '3.4'
+
+x-common-variables: &common-variables
+  POSTGRES_USER: trunk_player_user
+  POSTGRES_PASSWORD: changeme
+  POSTGRES_DB: trunk_player
+  POSTGRES_HOST: postgres
+  POSTGRES_PORT: 5432
 
 services:
   db:
@@ -7,32 +14,35 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
     environment:
-      POSTGRES_PASSWORD: changeme
-      POSTGRES_USER: trunk_player_user
-      POSTGRES_DB: trunk_player
+      <<: *common-variables
   sdr:
+    image: gibby/sdr-trunk:latest
+    restart: always
     privileged: true
-    image: gibby/trunk-recorder-player
+    volumes:
+      - config:/home/radio/trunk-player/config
+      - audio_files:/home/radio/trunk-player/audio_files
+      - liquidsoap:/home/radio/trunk-player/liquidsoap
+      - /dev/bus/usb:/dev/bus/usb
     links:
       - "db:postgres"
-    volumes:
-      - config:/app/config
-      - media:/app/media
-      - liquidsoap:/app/liquidsoap
-      - /dev/bus/usb:/dev/bus/usb
     environment:
-      START_TRUNK_PLAYER: true
-      SECRET_KEY: Get key from https://www.miniwebtool.com/django-secret-key-generator/
+      <<: *common-variables
+      ENCODING_LOGGING_LEVEL: INFO
+      START_TRUNK_PLAYER: "true"
+      LOCAL_AUDIO_FILES: "true"
+      ALLOWED_HOSTS: "['localhost', '127.0.0.1', '[::1]']"
+      DJANGO_ADMIN: changeme
+      DJANGO_PASS: changeme
+      DJANGO_EMAIL: trunk-player@changeme.com
+      SECRET_KEY: "changme"
       SITE_TITLE: Trunk-Player
-      SITE_EMAIL: help@example.com
-      DEFAULT_FROM_EMAIL: Trunk-Player WebSite <scanner-web-help@example.com>
-      AUDIO_URL_BASE: /app/media
-      DB_HOST: postgres
-      DB_NAME: trunk_player
-      DB_USER: trunk_player_user
-      DB_PASSWORD: changeme
+      SITE_EMAIL: trunk-player@changeme.com
+      DEFAULT_FROM_EMAIL: Trunk Player <trunk-player@changeme.com>
+      AUDIO_URL_BASE: /audio_files/
       TZ: America/New_York
     depends_on:
       - db
     ports:
       - 8000:8000
+      - 8080:80

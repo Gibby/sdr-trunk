@@ -716,35 +716,35 @@ Decimal,Subfleet,Alpha Tag,Mode,Description,Tag,Category,Priority,Stream List
 25069,,OCEMS Talk,D,EMS Talk,EMS-Talk,Orangeburg County,99,all
 25081,,OCEMS to TRMC,D,EMS to the Regional Medical Center,Hospital,Orangeburg County,99,all
 25344,,RCES PS,D,Emergency Services,Emergency Ops,Richland County,99,all
-25501,,RCSD 1,D,Sheriff Reg 1 Dispatch,Law Dispatch,Richland County,99,all|rcsd|police
-25502,,RCSD 2,D,Sheriff Reg 2 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
-25503,,RCSD 3,D,Sheriff Reg 3 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
-25504,,RCSD 4,D,Sheriff Reg 4 Dispatch,Law Dispatch,Richland County,99,all|rcsd|police
-25505,,RCSD 5,DE,Sheriff Ch 5,Law Tac,Richland County,99,all|rcsd|police
-25506,,RCSD 6,D,Sheriff Reg 67 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police
-25507,,RCSD 7,DE,Sheriff Ch 7,Law Tac,Richland County,99,all|rcsd|police
-25513,,RCSD OPS2,DE,Sheriff Ops 2,Law Tac,Richland County,99,all|rcsd|police
-25514,,RCSD OPS3,D,Sheriff Ops 3,Law Tac,Richland County,50,allfiltered|rcsd|all|police
-25518,,RC TRAFFICCAT,DE,Sheriff TrafficCAT,Law Tac,Richland County,99,all|rcsd|police
-25519,,RCSD INV,DE,Sheriff Investigations,Law Tac,Richland County,99,all|rcsd|police
-25520,,RCSD DSK SGT,DE,Sheriff Desk Sargeant,Law Tac,Richland County,99,all|rcsd|police
-25522,,RCSD MA,D,Sheriff Mutual Aid,Law Tac,Richland County,50,allfiltered|rcsd|all|police
-25552,,CFD DISP,D,Fire Dispatch,Fire Dispatch,Richland County,50,broadcastify|allfiltered|cfd|all
-25553,,CFD OPS1,D,Fire Ops 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25554,,CFD OPS2,D,Fire Ops 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25555,,CFD OPS3,D,Fire Ops 3,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25556,,CFD OPS4,D,Fire Ops 4,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25557,,CFD OPS5,D,Fire Ops 5,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25558,,CFD OPS6,D,Fire Ops 6,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25559,,CFD CMD1,D,Fire Command 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25560,,CFD CMD2,D,Fire Command 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all
-25561,,CFD ADMIN 1,D,Fire Admin 1,Fire-Tac,Richland County,99,all|cfd
-25562,,PREVENT,D,Fire Prevention,Fire-Tac,Richland County,99,all|cfd
-25563,,CFD SW,D,Fire Statewide,Fire-Tac,Richland County,99,all|cfd
+25501,,RCSD 1,D,Sheriff Reg 1 Dispatch,Law Dispatch,Richland County,99,all|rcsd|player
+25502,,RCSD 2,D,Sheriff Reg 2 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police|player
+25503,,RCSD 3,D,Sheriff Reg 3 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police|player
+25504,,RCSD 4,D,Sheriff Reg 4 Dispatch,Law Dispatch,Richland County,99,all|rcsd|player
+25505,,RCSD 5,DE,Sheriff Ch 5,Law Tac,Richland County,100
+25506,,RCSD 6,D,Sheriff Reg 67 Dispatch,Law Dispatch,Richland County,50,broadcastify|allfiltered|rcsd|all|police|player
+25507,,RCSD 7,DE,Sheriff Ch 7,Law Tac,Richland County,99,all|rcsd|police|player
+25513,,RCSD OPS2,DE,Sheriff Ops 2,Law Tac,Richland County,99,all|rcsd|police|player
+25514,,RCSD OPS3,D,Sheriff Ops 3,Law Tac,Richland County,50,allfiltered|rcsd|all|police|player
+25518,,RC TRAFFICCAT,DE,Sheriff TrafficCAT,Law Tac,Richland County,99,all
+25519,,RCSD INV,DE,Sheriff Investigations,Law Tac,Richland County,99,all
+25520,,RCSD DSK SGT,DE,Sheriff Desk Sargeant,Law Tac,Richland County,99,all
+25522,,RCSD MA,D,Sheriff Mutual Aid,Law Tac,Richland County,50,allfiltered|rcsd|all|police|player
+25552,,CFD DISP,D,Fire Dispatch,Fire Dispatch,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25553,,CFD OPS1,D,Fire Ops 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25554,,CFD OPS2,D,Fire Ops 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25555,,CFD OPS3,D,Fire Ops 3,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25556,,CFD OPS4,D,Fire Ops 4,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25557,,CFD OPS5,D,Fire Ops 5,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25558,,CFD OPS6,D,Fire Ops 6,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25559,,CFD CMD1,D,Fire Command 1,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25560,,CFD CMD2,D,Fire Command 2,Fire-Tac,Richland County,50,broadcastify|allfiltered|cfd|all|player
+25561,,CFD ADMIN 1,D,Fire Admin 1,Fire-Tac,Richland County,99,all|cfd|player
+25562,,PREVENT,D,Fire Prevention,Fire-Tac,Richland County,99,all|cfd|player
+25563,,CFD SW,D,Fire Statewide,Fire-Tac,Richland County,99,all|cfd|player
 25565,,RC EMS 1,D,EMS Dispatch,EMS Dispatch,Richland County,99,all
 25566,,RC EMS 2,D,EMS to Hospital,Hospital,Richland County,99,all
 25567,,RC EMS 3,D,EMS Ch 3,EMS-Tac,Richland County,99,all
-25569,,RCESD 5 Hazmat,D,Hazmat,Emergency Ops,Richland County,99,all|cfd
+25569,,RCESD 5 Hazmat,D,Hazmat,Emergency Ops,Richland County,99,all|cfd|player
 25570,,RCESD 6,D,Emergency Services,Emergency Ops,Richland County,99,all
 25571,,RCESD 7,D,Public Safety,Emergency Ops,Richland County,99,all
 25572,,RCESD 8,D,Emergency Services,Emergency Ops,Richland County,99,all
@@ -752,18 +752,18 @@ Decimal,Subfleet,Alpha Tag,Mode,Description,Tag,Category,Priority,Stream List
 25642,,Rich Co Jail,D,Jail,Law Tac,Richland County,99,all
 25651,,RC School D1,D,School District 1 Security,Schools,Richland County,99,all
 25657,,RC School D2,D,School District 2 Security,Schools,Richland County,99,all
-25665,,COLA EAST,D,Police East Region Dispatch,Law Dispatch,Columbia,50,broadcastify|allfiltered|cpd|all
-25666,,COLA METRO,D,Police Metro Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
-25667,,COLA NORTH,D,Police North Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
-25668,,COLA SOUTH,D,Police South Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
-25669,,COLA WEST,D,Police West Region Dispatch,Law Dispatch,Columbia,99,all|cpd|police
-25671,,COLA CSO,D,Police CSO,Law Tac,Columbia,99,all|cpd|police
-25672,,COLA SPECIAL EVT,D,Police Special Events,Law Tac,Columbia,99,all|cpd|police
-25673,,COLA INV,D,Police Investigations,Law Tac,Columbia,99,all|cpd|police
-25675,,COLA OPS1,D,Police Ops 1,Law Tac,Columbia,50,allfiltered|cpd|all|police
-25676,,COLA OPS2,D,Police Ops 2,Law Tac,Columbia,50,allfiltered|cpd|all|police
-25678,,COLA ROAM,D,Police Roam,Law Tac,Columbia,99,all|cpd|police
-25680,,COLA TRU,D,Police Telephone Response Unit TRU,Law Dispatch,Columbia,99,all|cpd|police
+25665,,COLA EAST,D,Police East Region Dispatch,Law Dispatch,Columbia,50,broadcastify|allfiltered|cpd|all|player
+25666,,COLA METRO,D,Police Metro Region Dispatch,Law Dispatch,Columbia,99,all|cpd|player
+25667,,COLA NORTH,D,Police North Region Dispatch,Law Dispatch,Columbia,99,all|cpd|player
+25668,,COLA SOUTH,D,Police South Region Dispatch,Law Dispatch,Columbia,99,all|cpd|player
+25669,,COLA WEST,D,Police West Region Dispatch,Law Dispatch,Columbia,99,all|cpd|player
+25671,,COLA CSO,D,Police CSO,Law Tac,Columbia,99,all|cpd|police|player
+25672,,COLA SPECIAL EVT,D,Police Special Events,Law Tac,Columbia,99,all|cpd|police|player
+25673,,COLA INV,D,Police Investigations,Law Tac,Columbia,99,all|cpd|police|player
+25675,,COLA OPS1,D,Police Ops 1,Law Tac,Columbia,50,allfiltered|cpd|all|police|player
+25676,,COLA OPS2,D,Police Ops 2,Law Tac,Columbia,50,allfiltered|cpd|all|police|player
+25678,,COLA ROAM,D,Police Roam,Law Tac,Columbia,99,all|cpd|police|player
+25680,,COLA TRU,D,Police Telephone Response Unit TRU,Law Dispatch,Columbia,99,all|cpd|police|player
 25695,,Cola College PD,D,Columbia College PD,Schools,Richland County,99,all
 25854,,FOREST ACRES PD,D,Forest Acres PD Dispatch,Law Dispatch,Richland County,99,all
 26001,,Sumter PD 1,D,Sumter PD Dispatch,Law Dispatch,Sumter County,99,all
@@ -797,7 +797,7 @@ Decimal,Subfleet,Alpha Tag,Mode,Description,Tag,Category,Priority,Stream List
 27103,,SCHP LeeKrshw,D,Ch 3 KershawLee Dispatch,Law Dispatch,SCHP Troop 1,99,all
 27104,,SCHP Lexington,D,Ch 4 Lexington Dispatch,Law Dispatch,SCHP Troop 1,99,all
 27105,,SCHP Tac 2,D,Ch 5 Tac 2,Law Tac,SCHP Troop 1,99,all
-27106,,SCHP Richland,D,Ch 6 Richland Dispatch,Law Dispatch,SCHP Troop 1,50,broadcastify|allfiltered|schp|all|police
+27106,,SCHP Richland,D,Ch 6 Richland Dispatch,Law Dispatch,SCHP Troop 1,50,broadcastify|allfiltered|schp|all|police|player
 27108,,DPS 1,D,Ch 8 DPS 1,Public Works,SCHP Troop 1,99,all
 27109,,SCHP Sp Ops 1,D,Ch 9 Special Ops Troop 1,Law Tac,SCHP Troop 1,99,all
 27111,,SCHP Aiken Disp,D,Ch 97 Aiken Dispatch,Law Dispatch,SCHP Troop 7,99,all

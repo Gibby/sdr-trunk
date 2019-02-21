@@ -73,11 +73,11 @@
     "systems": [{
         "control_channels": [860337500, 853537500, 853037500, 852537500],
         "type": "p25",
-        "talkgroupsFile": "/app/config/talk_groups.csv",
+        "talkgroupsFile": "config/talk_groups.csv",
         "hideEncrypted": true,
         "hideUnknownTalkgroups": true,
         "recordUnknown": false,
-        "uploadScript": "/encode_upload.py",
+        "uploadScript": "encode_upload.py",
 				"shortName": "COLA-P800"
     }],
     "captureDir": "/app/media"

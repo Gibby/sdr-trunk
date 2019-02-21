@@ -7,9 +7,9 @@ TIME_ZONE = '${TZ}'
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ${ALLOWED_HOSTS}
 
-BASE_DIR = '/opt/player'
+BASE_DIR = '/home/radio/trunk-player'
 
 # Make this unique, and don't share it with anybody.
 # You can use http://www.miniwebtool.com/django-secret-key-generator/
@@ -34,10 +34,10 @@ ACCESS_TG_RESTRICT = False
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': '${DB_NAME}', # Database Name
-        'USER': '${DB_USER}', # Database User Name
-        'PASSWORD': '${DB_PASSWORD}', # Database User Password
-        'HOST': '${DB_HOST}',
-        'PORT': '',
+        'NAME': '${POSTGRES_DB}', # Database Name
+        'USER': '${POSTGRES_USER}', # Database User Name
+        'PASSWORD': '${POSTGRES_PASSWORD}', # Database User Password
+        'HOST': '${POSTGRES_HOST}',
+        'PORT': '${POSTGRES_PORT}',
     }
 }

@@ -27,6 +27,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
 RUN apt-get install --no-install-recommends -y \
     gcc \
     libpq-dev \
+    nginx \
     postgresql-client \
     postgresql-client-common \
     python3-dev \
@@ -37,8 +38,9 @@ RUN apt-get install --no-install-recommends -y \
     rm -rf /var/lib/apt/lists/*
 
 # Get and configure trunk-player
-RUN git clone https://github.com/ScanOC/trunk-player.git /opt/player && \
-    cd /opt/player && \
+WORKDIR /home/radio/trunk-player
+RUN git clone https://github.com/ScanOC/trunk-player.git ./ && \
+    cp -r audio_files audio_files.orig && \
     pip3 install -r requirements.txt
 
 # Fix locale
@@ -46,16 +48,12 @@ RUN echo "en_US.UTF-8 UTF-8" > /etc/locale.gen && \
     locale-gen
 
 # Get recorder
-COPY --from=gibby/trunk-recorder:latest /opt/recorder /opt/recorder
+COPY --from=gibby/trunk-recorder:latest /home/radio/trunk-player ./
 
 # Setup container
-COPY src_files/* ./
+COPY src_files/* ./src_files/
+COPY entrypoint.sh ./
 
-RUN mkdir -p /app/media /app/encoded /app/liquidsoap /logs && \
-    chmod 0777 /logs
-
-EXPOSE 8000
-
-ENTRYPOINT ["/entrypoint.sh"]
+ENTRYPOINT ["./entrypoint.sh"]
 
 CMD ["test"]

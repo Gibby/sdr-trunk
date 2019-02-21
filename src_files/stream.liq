@@ -6,7 +6,7 @@ set("log.level",1)
 set("log.stdout",false)
 set("log.syslog",false)
 set("log.syslog.program","liquidsoap-#{STREAMID}")
-set("log.file.path","/logs/liquidsoap")
+set("log.file.path","/home/radio/trunk-player/logs/liquidsoap")
 
 
 # create a socket to send commands to this instance of liquidsoap
