@@ -64,18 +64,21 @@ streams = STREAM_LIST.split('|')
 servers = []
 
 for stream in streams:
+    stream = stream.rstrip()
     if stream.startswith("player"):
+        logger.info('Found player in stream: %s', stream)
         if os.environ.get('START_TRUNK_PLAYER')=='true':
             if os.environ.get('LOCAL_AUDIO_FILES')=='true':
                 shutil.copy2(MP3_FILE, '/home/radio/trunk-player/audio_files/')
                 shutil.copy2(JSON_FILE, '/home/radio/trunk-player/audio_files/')
                 os.chdir('/home/radio/trunk-player/')
                 system_id = re.sub('[^0-9]','', stream)
-                call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", "--system", system_id.rstrip(), FILENAME])
+                logger.info('Sending %s to system %s', TALKGROUP, system_id)
+                call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", "--system", system_id, FILENAME])
     else:
-        logger.debug(">>>>> %s, %s is in the list", stream.rstrip(), TALKGROUP)
+        logger.debug(">>>>> %s, %s is in the list", stream, TALKGROUP)
         stream_address = "/var/run/liquidsoap/{0}".format(stream)
-        logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream.rstrip(), stream_address)
+        logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream, stream_address)
         servers.append(stream_address.rstrip())
 
 if len(servers) < 1:
