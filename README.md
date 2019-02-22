@@ -31,6 +31,8 @@ I have attempted to keep the image size down by:
     * Starts runworker x2
     * Serving local audio files
   * Not working:
+    * No Social Logins yet
+    * Email doesn't work yet, so when a user signs up they get an error but if they go back to login they can login.
     * Serving audio files with s3
       * Might be added
     * Auto importing talk groups from the csv file that is used with trunk-recorder
