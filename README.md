@@ -40,6 +40,10 @@ I have attempted to keep the image size down by:
       * trunk-player and trunk-recorder don't use the same columns..... :(
       * Seems to be a length limit on the csv also
 
+
+## Extra To-Do's:
+* Might split out the sdr container to 2 containers, 1 for the recorder and 1 for the player.
+
 ## How-to use
 
 * /app/config has example of config.json and talk_groups.csv for my system. the talk_groups.csv is just a copy paste from https://www.radioreference.com/apps/db/
