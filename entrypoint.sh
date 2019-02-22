@@ -44,8 +44,9 @@ if [ "$START_TRUNK_PLAYER" = true ]; then
 # Local settings setup
   envsubst < src_files/settings_local.py > trunk_player/settings_local.py
 
-# Custom createsuperuser command for auto create superuser
+# Copy over some of out custom commands
   cp src_files/create_superuser_with_password.py radio/management/commands/createsuperuser2.py >> logs/player_setup 2>&1
+  cp src_files/import_talkgroups2.py radio/management/commands/import_talkgroups2.py >> logs/player_setup 2>&1
 
 # psql setup
   echo "${DB_HOST}:${DB_PORT}:${DB_NAME}:${DB_USER}:${DB_PASSWORD}" > ~/.pgpass
@@ -57,6 +58,9 @@ if [ "$START_TRUNK_PLAYER" = true ]; then
 
 # Create initial django superuser, this will run everytime, however it only creates the user, if it already exists it just errors and continues on...
   python3 ./manage.py createsuperuser2 --username ${DJANGO_ADMIN} --password ${DJANGO_PASS} --noinput --email ${DJANGO_EMAIL} >> logs/player_admin_setup 2>&1
+
+# Import talk groups from the csv file that the recorder uses
+  python3 ./manage.py import_talkgroups2 --truncate config/talk_groups.csv >> logs/player_setup 2>&1
 
 # Start trunk player and requirements
   redis-server >> logs/player_redis 2>&1 &

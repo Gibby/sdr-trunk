@@ -3,6 +3,7 @@ import socket
 import sys
 import os
 import shutil
+import re
 from subprocess import call
 from subprocess import PIPE, run
 
@@ -63,15 +64,16 @@ streams = STREAM_LIST.split('|')
 servers = []
 
 for stream in streams:
-    logger.debug(">>>>> %s, %s is in the list", stream.rstrip(), TALKGROUP)
-    if (stream.rstrip() == 'player'):
+    if stream.startswith("player"):
         if os.environ.get('START_TRUNK_PLAYER')=='true':
             if os.environ.get('LOCAL_AUDIO_FILES')=='true':
                 shutil.copy2(MP3_FILE, '/home/radio/trunk-player/audio_files/')
                 shutil.copy2(JSON_FILE, '/home/radio/trunk-player/audio_files/')
                 os.chdir('/home/radio/trunk-player/')
-                call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", FILENAME])
+                system_id = re.sub('[^0-9]','', stream)
+                call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", "--system", system_id.rstrip(), FILENAME])
     else:
+        logger.debug(">>>>> %s, %s is in the list", stream.rstrip(), TALKGROUP)
         stream_address = "/var/run/liquidsoap/{0}".format(stream)
         logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream.rstrip(), stream_address)
         servers.append(stream_address.rstrip())
