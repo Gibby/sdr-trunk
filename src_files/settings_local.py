@@ -5,13 +5,19 @@ LOCAL_SETTINGS = True
 
 TIME_ZONE = '${TZ}'
 
-DEBUG = False
+DEBUG = ${DEBUG}
 
 ALLOWED_HOSTS = ${ALLOWED_HOSTS}
 
 BASE_DIR = '/home/radio/trunk-player'
 
-ALLOW_GOOGLE_SIGNIN = False
+ALLOW_GOOGLE_SIGNIN = ${ALLOW_GOOGLE_SIGNIN}
+
+EMAIL_HOST = '${EMAIL_HOST}'
+EMAIL_PORT = '${EMAIL_PORT}'
+EMAIL_HOST_USER = '${EMAIL_HOST_USER}'
+EMAIL_HOST_PASSWORD = '${EMAIL_HOST_PASSWORD}'
+EMAIL_USE_TLS = '${EMAIL_USE_TLS}'
 
 # Make this unique, and don't share it with anybody.
 # You can use http://www.miniwebtool.com/django-secret-key-generator/

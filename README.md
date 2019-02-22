@@ -30,9 +30,9 @@ I have attempted to keep the image size down by:
     * Starts add_transmission_worker x2
     * Starts runworker x2
     * Serving local audio files
+    * Sending emails like at user signup
   * Not working:
     * No Social Logins yet
-    * Email doesn't work yet, so when a user signs up they get an error but if they go back to login they can login.
     * Serving audio files with s3
       * Might be added
     * Auto importing talk groups from the csv file that is used with trunk-recorder
@@ -87,6 +87,13 @@ I have attempted to keep the image size down by:
     * SITE_EMAIL: - Site email address
     * DEFAULT_FROM_EMAIL: - Default from address
     * TZ: - Timezone
+    * ALLOW_GOOGLE_SIGNIN: - Should google signups/signins be allowed **NOTE:** Currently does not work
+    * DEBUG: - Should Django be ran in debug mode, do **NOT** set to True in a public site.
+    * EMAIL_HOST: - Email host to send email through
+    * EMAIL_PORT: - Email host port
+    * EMAIL_HOST_USER: - Email host user **NOTE:** Have not tested anonymous or no user/pass
+    * EMAIL_HOST_PASSWORD: - Email host password
+    * EMAIL_USE_TLS: - Should TLS or SSL be used when connecting to EMAIL_HOST
 
 
 # Thanks to
