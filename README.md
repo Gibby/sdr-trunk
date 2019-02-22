@@ -44,10 +44,8 @@ I have attempted to keep the image size down by:
 
 * /app/config has example of config.json and talk_groups.csv for my system. the talk_groups.csv is just a copy paste from https://www.radioreference.com/apps/db/
   * the csv has 2 extra columns, Priority(0-100), Streams List(Pipe separated list of stream names)
-    * Stream names that start with player will be sent to trunk-player. You also need to define the system_id in trunk-player. So a stream name of player0, goes to player and system_id 0.
+    * Stream names that start with player will be sent to trunk-player. You also need to define the system_id in trunk-player. So a stream name of player0, goes to trunk-player on system 0.
     * All other stream names go to liquidsoap
-  * If you add layer as a location for stream list, it will send it to trunk-player
-  * All other names go to a liquidsoap stream
 
 * The docker-compose.yml includes a postgres database that can be used, or comment out and use your own.
 
