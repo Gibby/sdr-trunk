@@ -61,7 +61,6 @@ if os.path.exists(FILE_TO_ENCODE):
     os.remove(FILE_TO_ENCODE)
 
 streams = STREAM_LIST.split('|')
-servers = []
 
 for stream in streams:
     stream = stream.rstrip()
@@ -74,8 +73,10 @@ for stream in streams:
                 os.chdir('/home/radio/trunk-player/')
                 system_id = re.sub('[^0-9]','', stream)
                 logger.info('Sending %s to system %s', TALKGROUP, system_id)
+                import_tgs = run(args=["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "import_talkgroups2", "--truncate", "config/talk_groups.csv"], stdout=PIPE)
                 call(["/usr/bin/python3", "/home/radio/trunk-player/manage.py", "add_transmission", "--system", system_id, FILENAME])
     else:
+        servers = []
         logger.debug(">>>>> %s, %s is in the list", stream, TALKGROUP)
         stream_address = "/var/run/liquidsoap/{0}".format(stream)
         logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream, stream_address)
