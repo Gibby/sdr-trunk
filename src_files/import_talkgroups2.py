@@ -41,28 +41,32 @@ def import_tg_file(self, options):
         line_number = 0
         for row in tg_info:
             line_number+=1
-            system_id = re.sub('[^0-9]','', row[8])
-            if (system_id == ''):
-                print("Skipping talkgroup", row[0] , "no system found in csv file")
-            else:
-                print("Found system_id", system_id, "for talkgroup", row[0], "in the csv file")
-                try:
-                    system = System.objects.get(pk=system_id)
-                    if truncate:
-                        if len(row[3]) > mode_max_length:
-                          row[3] = row[3][:mode_max_length]
-                          self.stdout.write("Truncating mode from line ({}) TG {}".format(line_number, row[3]))
-                        if len(row[2]) > alpha_tag_max_length:
-                          row[2] = row[2][:alpha_tag_max_length]
-                          self.stdout.write("Truncating alpha_tag from line ({}) TG {}".format(line_number, row[3]))
-                        if len(row[4]) > description_max_length:
-                          row[4] = row[4][:description_max_length]
-                          self.stdout.write("Truncating description from line ({}) TG {}".format(line_number, row[3]))
-                    obj, create = TalkGroup.objects.update_or_create(dec_id=row[0], system=system, defaults={'mode': row[3], 'alpha_tag': row[2], 'description': row[4], 'priority': row[7]})
-                    obj.service_type = row[5]
-                    print("Importing talkgroup", row[0], "for system #{} - {}".format(system.pk, system.name))
-                    obj.save()
-                except System.DoesNotExist:
-                    print("Skipping talkgroup", row[0] , "no system:", system)
-                except (IntegrityError, IndexError):
-                    print("Skipping {}".format(row[3]))
+            system_list = row[8]
+            systems = system_list.split('|')
+            for system in systems:
+                if system.startswith("player"):
+                    system_id = re.sub('[^0-9]','', system)
+                    if (system_id == ''):
+                        print("Skipping talkgroup", row[0] , "no system found in csv file")
+                    else:
+                        print("Found system_id", system_id, "for talkgroup", row[0], "in the csv file")
+                        try:
+                            system = System.objects.get(pk=system_id)
+                            if truncate:
+                                if len(row[3]) > mode_max_length:
+                                  row[3] = row[3][:mode_max_length]
+                                  self.stdout.write("Truncating mode from line ({}) TG {}".format(line_number, row[3]))
+                                if len(row[2]) > alpha_tag_max_length:
+                                  row[2] = row[2][:alpha_tag_max_length]
+                                  self.stdout.write("Truncating alpha_tag from line ({}) TG {}".format(line_number, row[3]))
+                                if len(row[4]) > description_max_length:
+                                  row[4] = row[4][:description_max_length]
+                                  self.stdout.write("Truncating description from line ({}) TG {}".format(line_number, row[3]))
+                            obj, create = TalkGroup.objects.update_or_create(dec_id=row[0], system=system, defaults={'mode': row[3], 'alpha_tag': row[2], 'description': row[4], 'priority': row[7]})
+                            obj.service_type = row[5]
+                            print("Importing talkgroup", row[0], "for system #{} - {}".format(system.pk, system.name))
+                            obj.save()
+                        except System.DoesNotExist:
+                            print("Skipping talkgroup", row[0] , "no system:", system)
+                        except (IntegrityError, IndexError):
+                            print("Skipping {}".format(row[3]))

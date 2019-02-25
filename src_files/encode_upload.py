@@ -81,34 +81,34 @@ for stream in streams:
         logger.debug("[%s], matched for %s sending to: %s", TALKGROUP, stream, stream_address)
         servers.append(stream_address.rstrip())
 
-if len(servers) < 1:
-    logger.error("Talkgroup [%s] did not have any streams in the list: %s", TALKGROUP, STREAM_LIST)
-    exit(1)
+        if len(servers) < 1:
+            logger.error("Talkgroup [%s] did not have any streams in the list: %s", TALKGROUP, STREAM_LIST)
+            exit(1)
 
-for server_address in servers:
-    logger.debug("address: %s", server_address)
-    # Create a UDS socket
-    sock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+        for server_address in servers:
+            logger.debug("address: %s", server_address)
+            # Create a UDS socket
+            sock = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
 
-    try:
-        logger.debug('Opening connection to: %s', server_address)
-        sock.connect(server_address)
-    except socket.error as msg:
-        sys.exit(1)
+            try:
+                logger.debug('Opening connection to: %s', server_address)
+                sock.connect(server_address)
+            except socket.error as msg:
+                sys.exit(1)
 
-    try:
-        # Send data
-        logger.info('%s %s %s', TALKGROUP, "sending to: ", server_address)
-        logger.debug('queue.push {0}\n\r'.format(MP3_FILE))
-        message = 'queue.push {0}\n\r'.format(MP3_FILE)
-        sock.sendall(message.encode('utf-8'))
+            try:
+                # Send data
+                logger.info('%s %s %s', TALKGROUP, "sending to: ", server_address)
+                logger.debug('queue.push {0}\n\r'.format(MP3_FILE))
+                message = 'queue.push {0}\n\r'.format(MP3_FILE)
+                sock.sendall(message.encode('utf-8'))
 
-        amount_received = 0
-        amount_expected = len(message)
+                amount_received = 0
+                amount_expected = len(message)
 
-        data = sock.recv(16)
-        amount_received += len(data)
+                data = sock.recv(16)
+                amount_received += len(data)
 
-    finally:
-        match = 0
-        sock.close()
+            finally:
+                match = 0
+                sock.close()
