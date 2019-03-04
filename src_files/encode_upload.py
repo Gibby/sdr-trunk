@@ -55,7 +55,7 @@ if (STREAM_LIST.strip() == ''):
     logger.info("No Stream for [%s] %s", TALKGROUP, ALPHA)
     quit(0)
 
-call(["/usr/bin/lame", "--quiet", "-m", "m", "-b", "16", "--resample", "8", "--tt", "{0}".format(ALPHA), FILE_TO_ENCODE])
+call(["/usr/bin/lame", "--quiet", "-m", "m", "-b", "16", "--resample", "22.05", "--scale", "3", "--tt", "{0}".format(ALPHA), FILE_TO_ENCODE])
 
 if os.path.exists(FILE_TO_ENCODE):
     os.remove(FILE_TO_ENCODE)
