@@ -20,6 +20,7 @@ I have attempted to keep the image size down by:
     * icecast
   * .wav files are deleted after being converted to .mp3
   * .mp3 and .json files are not kept on container restart
+  * Had clock issues with liquidsoap sending to broadcastify, I setup a workaround so that encode_upload.py only sends to icecast, then there is a liquidsoap stream that grabs from icecast and pushes to broadcastify.
 * trunk-player
   * Working:
     * Initializes the postgres database
@@ -58,6 +59,16 @@ I have attempted to keep the image size down by:
   * POSTGRES_HOST: - Hostname for the db (Use postgres if using the link from the db service in docker-compose)
   * POSTGRES_PORT: - Port number to use to connect to the postgres host.
 
+* icecast:
+  * environment variables:
+    * ICECAST_ADMIN_USERNAME: - Admin username for the icecast web url
+    * ICECAST_ADMIN_PASSWORD: - Password for the admin
+    * ICECAST_SOURCE_PASSWORD: - Source password, used in the .liq files
+    * ICECAST_RELAY_PASSWORD: - Relay password, I am not using this
+    * ICECAST_HOSTNAME: - Hostname that goes in the icecast config
+    * ICECAST_PORT: - Port icecast listens on
+    * ICECAST_MAX_SOURCES: - Max number of sources
+  
 * postgres:
   * volumes:
     * postgres_data - where the database files are saved
@@ -68,7 +79,7 @@ I have attempted to keep the image size down by:
     * liquidsoap - should have your stream names in it
     * /dev/bus/usb:/dev/bus/usb - **leave as is**
   * environment variables:
-    * ENCODING_LOGGING_LEVEL: Log level of encode_upload.py, either INFO or DEBUG
+    * ENCODING_LOGGING_LEVEL: - Log level of encode_upload.py, either INFO or DEBUG
 
 
 * trunk-player options:
