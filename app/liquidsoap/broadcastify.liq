@@ -1,9 +1,9 @@
 #!/usr/bin/liquidsoap
-HOST="changeme"
-MOUNT="/changme"
+HOST="icecast"
+MOUNT="/broadcastify"
 PASSWORD="changeme"
 NAME="broadcastify"
 STREAMID="broadcastify"
 DESCRIPTION=""
-RECORDER_QUEUE=input.http("http://my.icecast.server/broadcastify")
+RECORDER_QUEUE=request.queue()
 %include "/home/radio/trunk-player/src_files/stream.liq"
