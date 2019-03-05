@@ -1,6 +1,8 @@
 gibby/sdr-trunk
 ===================
 [![](https://images.microbadger.com/badges/image/gibby/sdr-trunk.svg)](https://microbadger.com/images/gibby/sdr-trunk "Get your own image badge on microbadger.com")
+[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+
 
 # Description
 
@@ -68,7 +70,7 @@ I have attempted to keep the image size down by:
     * ICECAST_HOSTNAME: - Hostname that goes in the icecast config
     * ICECAST_PORT: - Port icecast listens on
     * ICECAST_MAX_SOURCES: - Max number of sources
-  
+
 * postgres:
   * volumes:
     * postgres_data - where the database files are saved
