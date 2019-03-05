@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5 (05/03/2019)
+- [Testing tags being built with cloud.docker.com](https://github.com/Gibby/sdr-trunk/commit/30a45ba4e784a133b6a2337646e79d8d54d5a0e2) - @Gibby
+- [Added gren tag to README](https://github.com/Gibby/sdr-trunk/commit/4eb8f6d785d5e19fce71e1a4bf36c54ca580b61b) - @Gibby
+- [Fixed changelog](https://github.com/Gibby/sdr-trunk/commit/f5fc8094e4da9b86510604cd819f93ecd4905d35) - @Gibby
+
+---
+
 ## 0.4 (05/03/2019)
 - [Adding release notes and change logs](https://github.com/Gibby/sdr-trunk/commit/ec9415ff0b228427cc46db9c492c554a0528e1f9) - @Gibby
 - [Added icecast to docker-compose example. Update examples of liquidsoap](https://github.com/Gibby/sdr-trunk/commit/31285037446737be0bd40cb0d443fa1087155d8a) - @Gibby
