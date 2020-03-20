@@ -31,6 +31,9 @@ cp src_files/encode_upload.py ./
 
 if [ "$START_TRUNK_PLAYER" = true ]; then
 
+# Local settings setup
+  envsubst < src_files/settings_local.py > trunk_player/settings_local.py
+
 # Check if doing local audio files
   if [ "$LOCAL_AUDIO_FILES" = true ]; then
     cp audio_files.orig/* audio_files/
@@ -40,9 +43,6 @@ if [ "$START_TRUNK_PLAYER" = true ]; then
     /etc/init.d/nginx restart
     python3 ./manage.py collectstatic --noinput
   fi
-
-# Local settings setup
-  envsubst < src_files/settings_local.py > trunk_player/settings_local.py
 
 # Copy over some of out custom commands
   cp src_files/create_superuser_with_password.py radio/management/commands/createsuperuser2.py >> logs/player_setup 2>&1
