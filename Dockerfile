@@ -20,6 +20,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     libuhd0* \
     liquidsoap \
     liquidsoap-plugin-all \
+    lsusb \
     socat \
     gettext
 
