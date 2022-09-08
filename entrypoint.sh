@@ -60,7 +60,13 @@ if [ "$START_TRUNK_PLAYER" = true ]; then
   python3 ./manage.py createsuperuser2 --username ${DJANGO_ADMIN} --password ${DJANGO_PASS} --noinput --email ${DJANGO_EMAIL} >> logs/player_admin_setup 2>&1
 
 # Import talk groups from the csv file that the recorder uses
-  python3 ./manage.py import_talkgroups2 --truncate config/talk_groups.csv >> logs/player_setup 2>&1
+if diff config/talk_groups.csv config/talk_groups.csv.last-import >> logs/player_setup 2>&1; then
+  echo "SKIPPING IMPORT - config/talk_groups.csv the same as config/talk_groups.csv.last-import" >> logs/player_setup 2>&1
+else
+  if python3 ./manage.py import_talkgroups2 --truncate config/talk_groups.csv >> logs/player_setup 2>&1; then
+    cp config/talk_groups.csv config/talk_groups.csv.last-import
+  fi
+fi
 
 # Start trunk player and requirements
   redis-server >> logs/player_redis 2>&1 &
