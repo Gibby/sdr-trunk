@@ -75,7 +75,7 @@ fi
   python3 ./manage.py runworker >> logs/player_runworker 2>&1 &
   python3 ./manage.py add_transmission_worker >> logs/player_trans_worker 2>&1 &
   python3 ./manage.py add_transmission_worker >> logs/player_trans_worker 2>&1 &
-  python3 ./manage.py runserver --nothreading 0.0.0.0:8000 >> logs/player 2>&1 &
+  python3 ./manage.py runserver 0.0.0.0:8000 >> logs/player 2>&1 &
 fi
 
 
