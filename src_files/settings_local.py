@@ -15,6 +15,10 @@ BASE_DIR = '/home/radio/trunk-player'
 
 ALLOW_GOOGLE_SIGNIN = ${ALLOW_GOOGLE_SIGNIN}
 
+# Disable this check
+DATA_UPLOAD_MAX_NUMBER_FIELDS = None
+
+# Email Settings
 EMAIL_HOST = '${EMAIL_HOST}'
 EMAIL_PORT = '${EMAIL_PORT}'
 EMAIL_HOST_USER = '${EMAIL_HOST_USER}'
